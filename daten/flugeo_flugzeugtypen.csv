@@ -1,0 +1,2794 @@
+name,icao,aliases,priority
+Airbus A220-100,BCS1,CS100|Bombardier CS100|221,3
+Airbus A220-300,BCS3,A220|CS300|Bombardier CS300|223,3
+Airbus A300-600,A306,A300|A300-600R|AB6|ABY,3
+Airbus A310,A310,A310-300|312|313,3
+Airbus A318,A318,A318-100|318|32C,3
+Airbus A319,A319,A319-100|A319ceo|319|32D,3
+Airbus A319neo,A19N,A319-151N|319neo|31N,3
+Airbus A320,A320,A320-200|A320ceo|320|32A,3
+Airbus A320neo,A20N,A320-251N|A320-271N|320neo|32N,3
+Airbus A321,A321,A321-200|A321ceo|321|32B,3
+Airbus A321neo,A21N,A321XLR|A321LR|A321-251NX|A321-253NX|A321-271NX|321neo|XLR|32Q,3
+Airbus A330-200,A332,A330-200|332|33X,3
+Airbus A330-300,A333,A330|A330-300|333|33Y,3
+Airbus A330-800neo,A338,A330-800|A330neo|338,3
+Airbus A330-900neo,A339,A330-900|A330neo|339,3
+Airbus A340-200,A342,342,3
+Airbus A340-300,A343,A340|343,3
+Airbus A340-500,A345,345,3
+Airbus A340-600,A346,346,3
+Airbus A350-1000,A35K,A350 XWB|351,3
+Airbus A350-900,A359,A350|A350 XWB|359,3
+Airbus A380-800,A388,A380|388,3
+ATR 42-300,AT43,ATR42|AT4,3
+ATR 42-500,AT45,ATR42|AT5,3
+ATR 42-600,AT46,ATR42,3
+ATR 72-200,AT72,ATR72|AT7,3
+ATR 72-500,AT75,ATR72,3
+ATR 72-600,AT76,ATR72,3
+Avro RJ85,RJ85,BAe 146|RJ|AR8,3
+BAe 146-200,B462,BAe 146|Avro RJ|142,3
+Boeing 717-200,B712,717,3
+Boeing 737 MAX 10,B3XM,737-10|MAX10|7MJ,3
+Boeing 737 MAX 7,B37M,737-7|MAX7|7M7,3
+Boeing 737 MAX 8,B38M,737-8|MAX8|737 MAX|7M8,3
+Boeing 737 MAX 9,B39M,737-9|MAX9|7M9,3
+Boeing 737-200,B732,732,3
+Boeing 737-300,B733,733|73C,3
+Boeing 737-400,B734,734,3
+Boeing 737-500,B735,735|73E,3
+Boeing 737-600,B736,736,3
+Boeing 737-700,B737,737NG|73G|73W,3
+Boeing 737-800,B738,737|737NG|B737-800|738|73H,3
+Boeing 737-900,B739,737-900ER|737NG|739|73J,3
+Boeing 747-400,B744,747|747-400ER|744|74Y,3
+Boeing 747-8,B748,747-8I|747-8F|74H|74N,3
+Boeing 757-200,B752,757|752|75W,3
+Boeing 757-300,B753,753,3
+Boeing 767-200,B762,767-200ER|762,3
+Boeing 767-300,B763,767|767-300ER|763|76W,3
+Boeing 767-400,B764,767-400ER|764,3
+Boeing 777-200,B772,777-200ER|772,3
+Boeing 777-200LR,B77L,777F|777 Freighter|77L,3
+Boeing 777-300,B773,773,3
+Boeing 777-300ER,B77W,777|77W,3
+Boeing 777-8,B778,777X|778,3
+Boeing 777-9,B779,777X|779,3
+Boeing 787-10 Dreamliner,B78X,781,3
+Boeing 787-8 Dreamliner,B788,788,3
+Boeing 787-9 Dreamliner,B789,787|789,3
+Bombardier CRJ100,CRJ1,CRJ-100|CR1,3
+Bombardier CRJ1000,CRJX,CRJ-1000|CRK,3
+Bombardier CRJ200,CRJ2,CRJ-200|CR2,3
+Bombardier CRJ700,CRJ7,CRJ-700|CR7,3
+Bombardier CRJ900,CRJ9,CRJ-900|CR9,3
+COMAC ARJ21,AJ27,ARJ21|C27,3
+COMAC C919,C919,919,3
+De Havilland Dash 8-100,DH8A,Q100|DHC-8-100|DH1,3
+De Havilland Dash 8-200,DH8B,Q200|DHC-8-200|DH2,3
+De Havilland Dash 8-300,DH8C,Q300|DHC-8-300|DH3,3
+De Havilland Dash 8-400,DH8D,Q400|DHC-8-400|DH4,3
+Embraer 170,E170,E170|ERJ-170|ERJ-170-100|E70,3
+Embraer 175 (long wing),E75L,E175|ERJ-175|ERJ-170-200|E7W,3
+Embraer 175 (short wing),E75S,E175|ERJ-175|ERJ-170-200|E75,3
+Embraer 190,E190,E190|ERJ-190|ERJ-190-100|E90,3
+Embraer 195,E195,E195|ERJ-195|ERJ-190-200|E95,3
+Embraer E190-E2,E290,E2-190|ERJ-190-300|290,3
+Embraer E195-E2,E295,E2-195|ERJ-190-400|295,3
+Embraer ERJ-135,E135,ERJ135|ER3,3
+Embraer ERJ-145,E145,ERJ145|ER4,3
+Fokker 100,F100,100,3
+Fokker 70,F70,F70,3
+McDonnell Douglas MD-11,MD11,MD11|M11,3
+McDonnell Douglas MD-82,MD82,MD80|M82,3
+McDonnell Douglas MD-83,MD83,MD80|M83,3
+McDonnell Douglas MD-87,MD87,MD80|M87,3
+McDonnell Douglas MD-88,MD88,MD80|M88,3
+McDonnell Douglas MD-90,MD90,M90,3
+Sukhoi Superjet 100,SU95,SSJ100|SSJ|SU9,3
+Aermacchi M-346 Master,M346,,2
+Aero Spacelines Super Guppy,SGUP,,2
+Aerospatiale N-262,N262,,2
+Aidc AT-3 Tzu-Chung,AT3,,2
+Aidc F-CK-1 Ching-Kuo,CKUO,,2
+Aidc T-5 Yung Yin,T5YY,,2
+Airbus A300-200,A30B,AB4,2
+Airbus A300ST Beluga Super Transporter,A3ST,,2
+Airbus A330-700 Beluga XL,A337,,2
+Airbus A400M,A400,,2
+Alenia C-27A Spartan,G222,,2
+Alenia C-27J Spartan,C27J,,2
+Antonov An-12,AN12,,2
+Antonov An-124 Ruslan,A124,,2
+Antonov An-148,A148,,2
+Antonov An-158,A158,,2
+Antonov An-178,A178,,2
+Antonov An-22 Antheus,AN22,,2
+Antonov An-225 Mriya,A225,,2
+Antonov An-24,AN24,,2
+Antonov An-26,AN26,,2
+Antonov An-30,AN30,,2
+Antonov An-32 Sutlej,AN32,,2
+Antonov An-38,AN38,,2
+Antonov An-70,AN70,,2
+Antonov An-74-200,AN72,,2
+Antonov An-74-300,A743,,2
+Antonov An-8,AN8,,2
+ATR 42-400,AT44,,2
+ATR 72-212,AT73,,2
+Avro 748,A748,,2
+Avro RJ-100 Avroliner,RJ1H,AR1,2
+Avro RJ-70 Avroliner,RJ70,AR7,2
+BAC 1-11,BA11,,2
+BAC Canberra,CNBR,,2
+BAC Lightning,LTNG,,2
+Beech 1900,B190,,2
+Beech 200 Super King Air,BE20,,2
+Beech 400 Beechjet,BE40,,2
+Beech 400XT Beechjet,BE4W,,2
+Beechcraft Super King Air 350,B350,,2
+Beriev Be-32,BE32,,2
+Boeing 707-100,B701,,2
+Boeing 707-300,B703,703,2
+Boeing 720,B720,,2
+Boeing 727-100,B721,721,2
+Boeing 727-100RE Super 27,R721,,2
+Boeing 727-200,B722,722,2
+Boeing 727-200RE Super 27,R722,,2
+Boeing 737-700 AEWC,E737,,2
+Boeing 747-100,B741,741,2
+Boeing 747-200,B742,742,2
+Boeing 747-300,B743,743,2
+Boeing 747-400LCF Dreamlifter,BLCF,,2
+Boeing 747SP,B74S,74L,2
+Boeing 747SR,B74R,,2
+Boeing B-52 Stratofortress,B52,,2
+Boeing C-17 Globemaster 3,C17,,2
+Boeing E-3 Sentry (CFM56),E3CF,,2
+Boeing E-3 Sentry (TF33),E3TF,,2
+Boeing E-6 Mercury,E6,,2
+Boeing E-767,E767,,2
+Boeing FA-18 HORNET,F18H,,2
+Boeing FA-18 SUPER HORNET,F18S,,2
+Boeing KC-135R/T Stratotanker,K35R,,2
+Boeing KC-35E Stratotanker,K35E,,2
+Boeing KE-3,KE3,,2
+Boeing NC-135,C135,,2
+Boeing P-8 Poseidon,P8,,2
+Boeing RC-135,R135,,2
+Boeing WC-135R,W135,,2
+Bombardier BD-100 Challenger 300,CL30,,2
+Bombardier BD-100 Challenger 350,CL35,,2
+Bombardier BD-700 Global 5000/5500,GL5T,,2
+Bombardier BD-700 Global 6000/6500,GLEX,,2
+Bombardier BD-700 Global 7000/7500,GL7T,,2
+Bombardier CL-600 Challenger,CL60,,2
+Breguet Atlantic,ATLA,,2
+British Aerospace 146-100 Statesman,B461,141,2
+British Aerospace 146-300,B463,143,2
+British Aerospace Atp,ATP,,2
+British Aerospace Jetstream 41,JS41,,2
+British Aerospace Jetstream Super 31,JS32,,2
+British Aerospace Jetstream T.Mk.3,JS31,,2
+Canadair CL-44 Guppy,CL4G,,2
+Canadair Cosmopolitan,CVLT,,2
+CASA C-295 Persuader,C295,,2
+CASA CN-235 Persuader,CN35,,2
+Cessna 212 Aviocar,C212,,2
+Cessna 525C Citation CJ4,C25C,,2
+Cessna 560 Citation Ultra,C560,,2
+Cessna 560XL Citation XLS,C56X,,2
+Cessna 650 Citation,C650,,2
+Cessna 680 Citation Latitude,C68A,,2
+Cessna 680 Citation Sovereign,C680,,2
+Cessna 700 Citation Longitude,C700,,2
+Cessna 750 Citation 10,C750,,2
+Cessna E530 Scorpion,E530,,2
+Chengdu J-20,J20,,2
+Dassault Falcon 100,FA10,,2
+Dassault Falcon 200,FA20,,2
+Dassault Falcon 2000,F2TH,,2
+Dassault Falcon 50,FA50,,2
+Dassault Falcon 6X,FA6X,,2
+Dassault Falcon 7X,FA7X,,2
+Dassault Falcon 8X,FA8X,,2
+Dassault Falcon 900,F900,,2
+Dassault Rafale,RFAL,,2
+Dassault-Dornier Alpha Jet,AJET,,2
+De Havilland DHC-4 Turbo Caribou,DH4T,,2
+De Havilland DHC-5 Buffalo,DHC5,,2
+De Havilland DHC-7 Dash 7,DHC7,,2
+Dinfia IA-50 Guarani 2,IA50,,2
+Dirgantara Indonesia N-219 Nurtanio,N219,,2
+Dornier 328,D328,D38,2
+Dornier 328 JET,J328,FRJ,2
+Douglas A-3 Skywarrior,A3,,2
+Douglas DC-3 Turbine Dakota,DC3T,,2
+Embraer EMB-120 Brasilia,E120,,2
+Embraer EMB-135 Legacy,E35L,,2
+Embraer EMB-390,E390,,2
+Embraer EMB-505 Phenom 300,E55P,,2
+Embraer EMB-550 Praetor 600,E550,,2
+Embraer EMB545 Praetor 500,E545,,2
+Embraer ERJ-145XR,E45X,,2
+Embraer ERJ-190-500,E275,,2
+Eurofighter 2000,EUFI,,2
+Fairchild A-10 Thunderbolt II,A10,,2
+Fokker 50,F50,F50,2
+Fokker 60,F60,,2
+Fokker F-27,F27,,2
+Fokker F-28,F28,,2
+General Dynamics F-111 Raven,F111,,2
+Gloster Meteor,METR,,2
+Grumman A-6 Prowler,A6,,2
+Grumman C-2 Greyhound,C2,,2
+Grumman F-14 Tomcat,F14,,2
+Grumman Gulfstream 1,G159,,2
+Grumman Mohawk,V1,,2
+Grumman S-2 Turbo Tracker,S2T,,2
+Gulfstream 2,GLF2,,2
+Gulfstream 3,GLF3,,2
+Gulfstream 4,GLF4,,2
+Gulfstream 5,GLF5,,2
+Gulfstream Aerospace Gulfstream G100,ASTR,,2
+Gulfstream G-7 G400,GA4C,,2
+Gulfstream G-8 G800,GA8C,,2
+Gulfstream G150,G150,,2
+Gulfstream G200,GALX,,2
+Gulfstream G250,G250,,2
+Gulfstream G280,G280,,2
+Gulfstream G300,GA3C,,2
+Gulfstream G500,GA5C,,2
+Gulfstream G600,GA6C,,2
+Gulfstream G650,GLF6,,2
+Gulfstream G700,GA7C,,2
+Harbin Y-12F Aircar,Y12F,,2
+Hawker Beechcraft Hawker 750/850,H25B,,2
+Hawker Siddeley HS-125,H25A,,2
+Hawker-Siddeley Buccaneer,BUC,,2
+Hesa 140 Faraz,A140,,2
+Hindustan Jaguar,JAGR,,2
+Hongdu L-15 Lieying,L15,,2
+Hongdu Q-5,Q5,,2
+IAI 1123 Westwind,WW23,,2
+IAI 1124 Westwind,WW24,,2
+IAI Commodore Jet,JCOM,,2
+Ilyushin A-50,A50,,2
+Ilyushin IL-112,I112,,2
+Ilyushin Il-114,I114,,2
+Ilyushin Il-18,IL18,,2
+Ilyushin Il-28,IL28,,2
+Ilyushin Il-38,IL38,,2
+Ilyushin Il-62,IL62,,2
+Ilyushin Il-76/82,IL76,,2
+Ilyushin Il-87,IL86,,2
+Ilyushin Il-96,IL96,,2
+Iriaf S-100 Saeghe,F5SA,,2
+Irkut MC-21-300,MC23,,2
+Kawasaki C-1,C1,,2
+Kawasaki C-2,KC2,,2
+Kawasaki P-1,P1,,2
+Kawasaki T-4,T4,,2
+KF-21 Boramae,KF21,,2
+Learjet 31,LJ31,,2
+Learjet 35,LJ35,,2
+Learjet 40,LJ40,,2
+Learjet 45,LJ45,,2
+Learjet 55,LJ55,,2
+Learjet 60,LJ60,,2
+Learjet 70,LJ70,,2
+Learjet 75,LJ75,,2
+Learjet 85,LJ85,,2
+LET L-610,L610,,2
+Lockhed Martin X-55,X55,,2
+Lockheed C-130 Hercules,C130,,2
+Lockheed C-141 Starlifter,C141,,2
+Lockheed C-5 Super Galaxy,C5M,,2
+Lockheed F-117 Nighthawk,F117,,2
+Lockheed L-1011 TriStar,L101,,2
+Lockheed L-1329 Jetstar 6/8,L29A,,2
+Lockheed L-1329 Jetstar 731,L29B,,2
+Lockheed L-188 Electra,L188,,2
+Lockheed Martin C-130J Super Hercules,C30J,,2
+Lockheed Martin F-22 Raptor,F22,,2
+Lockheed P-3 Orion,P3,,2
+Lockheed S-3 Viking,S3,,2
+Martin 272,WB57,,2
+MBB HFB-320 Hansa,HF20,,2
+Mcdonnell Douglas DC-10,DC10,D11,2
+Mcdonnell Douglas DC-8-50,DC85,,2
+Mcdonnell Douglas DC-8-60,DC86,,2
+Mcdonnell Douglas DC-8-70,DC87,,2
+Mcdonnell Douglas DC-9-10,DC91,D91,2
+Mcdonnell Douglas DC-9-20,DC92,D92,2
+Mcdonnell Douglas DC-9-30,DC93,D93,2
+Mcdonnell Douglas DC-9-40,DC94,D94,2
+Mcdonnell Douglas DC-9-50,DC95,D95,2
+McDonnell Douglas F-15 Eagle,F15,,2
+McDonnell Douglas F-4 Phantom 2,F4,,2
+McDonnell Douglas MD-81,MD81,M81,2
+Mcdonnell Douglas YC-15,C15,,2
+Mikoyan MiG 1-44,MG44,,2
+Mikoyan Mig-19,MG19,,2
+Mikoyan MiG-25,MG25,,2
+Mikoyan MiG-29/33/35,MG29,,2
+Mikoyan MiG-31,MG31,,2
+Mitsubishi F-1,F1,,2
+Mitsubishi MRJ-70,MRJ7,,2
+Mitsubishi MRJ-90,MRJ9,,2
+Mitsubishi MU-300 Diamond,MU30,,2
+Mitsubishi T-2,MT2,,2
+Mitsubishi YS-11,YS11,,2
+Myasishchev M-4,MYA4,,2
+Myasishchev M-55 Geophysica,M55,,2
+Myasishchev Vm-T Atlant,VMT,,2
+Nord Super Broussard,N260,,2
+North American Sabre 40/50/60/65,SBR1,,2
+North American Sabre 75/80,SBR2,,2
+Northrop F-5 Tiger 2,F5,,2
+Northrop Grumman B-2 Spirit,B2,,2
+Northrop Grumman B-21 Raider,B21,,2
+Northrop Grumman E-2 Hawkeye,E2,,2
+Nusantara N-250,N250,,2
+Panavia Tornado,TOR,,2
+Pilatus PC-24,PC24,,2
+PZL Mielec M-28 Skytruck,M28,,2
+Raytheon 4000 Hawker Horizon,HA4T,,2
+Raytheon Hawker 1000,H25C,,2
+Rockwell B-1 Lancer,B1,,2
+Rutan White Knight,WHKN,,2
+Rutan White Knight Two,WHK2,,2
+Saab 2000,SB20,S20,2
+Saab 340,SF34,SF3,2
+Scaled 351 Stratolaunch,SLCH,,2
+Shenyang J-8,J8A,,2
+Shenyang J-8,J8B,,2
+Short 330 Sherpa,SH33,,2
+Short 360,SH36,,2
+Short SC-5 Belfast,BELF,,2
+SOKO_CNIAR NJ-22 Orao,YURO,,2
+SUD Vautour,VAUT,,2
+Sukhoi Su-24,SU24,,2
+Sukhoi Su-25/28/39,SU25,,2
+Sukhoi Su-27/30/32/33/34/35/37,SU27,,2
+Sukhoi Su-47 Berkut,S37,,2
+Sukhoi Su-57,SU57,,2
+Sukhoi Su-80,SU80,,2
+Swearingen Metro,SW4,,2
+Tai Tf Kaan,KAAN,,2
+Transall C-160,C160,,2
+Tupolev Tu-134,T134,,2
+Tupolev Tu-142,TU95,,2
+Tupolev Tu-154,T154,,2
+Tupolev Tu-160,T160,,2
+Tupolev Tu-204/214/224/234,T204,,2
+Tupolev Tu-22,TU22,,2
+Tupolev Tu-22M,T22M,,2
+Tupolev Tu-334,T334,,2
+Tupolev Tu-6,TU16,,2
+Xian JH-7,JH7,,2
+Xian Kunpeng,Y20,,2
+Xian MA-60,MA60,,2
+Xian MA-60H,MA6H,,2
+Yakovlev Yak-130,Y130,,2
+Yakovlev Yak-141,Y141,,2
+Yakovlev Yak-142,YK42,,2
+Yakovlev Yak-28,YK28,,2
+Yakovlev Yak-38,YK38,,2
+Yakovlev Yak-40,YK40,,2
+,ULAC,,1
+3XTRIM Navigator 600,TR55,,1
+3XTRIM Ultra,UL45,,1
+A2 CZ Ellipse Spirit,ELSP,,1
+AAK Bushman,BMAN,,1
+AAK Flamingo,FMGO,,1
+AAK Hornet,HRNT,,1
+AAK Wasp,WSP,,1
+Aasi Jetcruzer,JCRU,,1
+Acba Midour 2,MIDR,,1
+ACE Junior Ace,JACE,,1
+Aceair A200 Aeris,ARKS,,1
+Aces High Cuby 2,CUB2,,1
+Acro Sport 1,ACRO,,1
+Acro Sport 2,ACR2,,1
+Acro Sport Cougar,COUG,,1
+Acro Sport Super Ace,SACE,,1
+ACS Sora,SORA,,1
+Adam A500 CarbonAero,A500,,1
+Adam A700 AdamJet,A700,,1
+AEA Maverick,MAVR,,1
+Aeritalia-Aermacchi AM-3 Bosbok,AM3,,1
+Aeritalia-Aermacchi Amx Ghibli,AMX,,1
+Aermacchi AL-60,LA60,,1
+Aermacchi AL-60T Turbine Grizzly,LA6T,,1
+Aermacchi M-345,M345,,1
+Aermacchi MB-308,M308,,1
+Aermacchi MB-339,M339,,1
+Aermacchi SF-260,F260,,1
+Aermacchi SF-260T,F26T,,1
+Aero Ae-270 Propjet,A270,,1
+Aero AT-3,AAT3,,1
+Aero AT-4,AAT4,,1
+Aero Boero AB-115,AB11,,1
+Aero Boero AB-150,AB15,,1
+Aero Boero AB-180,AB18,,1
+Aero Boero AB-95,AB95,,1
+Aero Commander 520,AC52,,1
+Aero Commander 560,AC56,,1
+Aero Commander 680,AC68,,1
+Aero Commander 685,AC6L,,1
+Aero Commander 720,AC72,,1
+Aero Itba Petrel,PETL,,1
+Aero Kuhlmann Scub,SCUB,,1
+Aero L-159 Albatros 2,L159,,1
+Aero L-29 Delfin,L29,,1
+Aero L-59,L59,,1
+Aero Mercantil Gavilan 358,GAVI,,1
+Aero Mirage TC-2,TC2,,1
+Aero Service Guepe,GEPE,,1
+Aero Service Super Guepard,GUEP,,1
+Aero Super Aero 145,AE45,,1
+Aero-East-Europe SILA-450,S450,,1
+AERO_KROS Czajka,MP02,,1
+Aerocar,CAR,,1
+Aerocar Mini-Imp,MIMP,,1
+Aerodis Orion,G800,,1
+Aerodynos JA-177 Pingouin,J177,,1
+Aerojames Isatis,ISAT,,1
+Aerolab LoCamp,LOCA,,1
+Aeromere F-8L Falco,F8L,,1
+Aeromot Guri,GURI,,1
+Aeronca 11 Chief,AR11,,1
+Aeronca 15 Sedan,AR15,,1
+Aeronca 50 Chief,AR50,,1
+Aeronca 50 Tandem,AR5T,,1
+Aeronca 65 Super Chief,AR65,,1
+Aeronca 65 Tandem,AR6T,,1
+Aeronca Sea Scout,AERK,,1
+Aeronix Airelle,AIRL,,1
+Aeropilot Legend,LGND,,1
+Aeropract A-19,A19,,1
+Aeropract A-20,AP20,,1
+Aeropract A-21 Solo,A21,,1
+Aeropract A-22,AP22,,1
+Aeropract A-23 Dragon,A23,,1
+Aeropract A-26,AP26,,1
+Aeropract A-27,A27,,1
+Aeropract A-28,AP28,,1
+Aeropract A-32,AP32,,1
+Aeropract A-33,A33,,1
+Aeropract A-36,AP36,,1
+Aeropract A-37,AA37,,1
+Aeropro Eurofox,EFOX,,1
+Aeroprogress T-101 Grach,T101,,1
+Aeropup,APUP,,1
+Aeros UL-2000 Flamingo,UL2F,,1
+Aerosamara F-41 Elbrus,F41E,,1
+Aerosamara Katran,KATR,,1
+Aerosette Eclipse,MH46,,1
+Aerospatiale (Sud Aviation) Se.210 Caravelle,S210,,1
+Aerospatiale CM-170 Magister,FOUG,,1
+Aerospatiale SN-601 Corvette,S601,,1
+Aerospool WT-10 Advantic,WT10,,1
+Aerospool WT-9 Dynamic,WT9,,1
+Aerosport Quail,QAIL,,1
+Aerosport Rail,RAIL,,1
+Aerosport Scamp,SCAM,,1
+Aerostar 600,AEST,,1
+Aerostart FJ-100,FJ10,,1
+Aerostart R40S Festival,FEST,,1
+Aerostyle Breezer,BREZ,,1
+Aerotec A122 Uirapuru,A122,,1
+Aerotec MPX-158 Embera,MX58,,1
+Aerotec MXP-100 Aventura,MX10,,1
+Aerotec MXP-650 Amigo,MX65,,1
+Aerotec MXP-800 Fantasy,MX80,,1
+Aerotec Savannah,SVNH,,1
+Aerotechnik L-13S Vivat,L13S,,1
+Aerotek Turbo Grizzly,GRIZ,,1
+Aidx T-CH-1 Chung-Tsing,CH1,,1
+Air Products F-1 Aircoupe,ERCO,,1
+Air Tractor AT-250,AT2P,,1
+Air Tractor AT-301/401,AT3P,,1
+Air Tractor AT-302/402,AT3T,,1
+Air Tractor AT-501,AT5P,,1
+Air Tractor AT-504,AT5T,,1
+Air Tractor AT-602,AT6T,,1
+Air Tractor AT-802,AT8T,,1
+Airbus E-Fan,EFAN,,1
+Airconcept Airbuggy,VW10,,1
+Aircraft Design Super Stallion,STAL,,1
+Aircraft Design Turbine Stallion,STAT,,1
+Aircraft Hydro-Forming Bushmaster 2000,BU20,,1
+Aircraft Spruce Baby Lakes,BLKS,,1
+Aircraft Technologies Acro 1,ATAC,,1
+Aircraft Technologies Atlantis,ATIS,,1
+Aircraft Technologies Meyer-360,M360,,1
+Airlony Skylane,ALSL,,1
+Airplane Factory Sling 2,SLG2,,1
+Airplane Factory Sling 4,SLG4,,1
+Aisa I-115,I115,,1
+Aisa I-11B Peque,I11B,,1
+Akaflieg AK-1,AK1,,1
+Akaflieg D-39,D39,,1
+Akaflieg Mu-23 Saurier,MU23,,1
+Akaflieg Schlacro,SCRO,,1
+Akrotech G-200,G200,,1
+Akrotech G-202,G202,,1
+Akrotech G-222,CP22,,1
+Akrotech G-300,G300,,1
+Alanne Moottori-Lerche,MLER,,1
+Albaviation D-24 MagicONE,D24,,1
+Alfa-M A211,A211,,1
+Alms J-300 Joker,J300,,1
+Alms Papango,PAGO,,1
+Alpaero Choucas,CHCS,,1
+Alpha J-5 MARCO,JAJ5,,1
+Alpi Pioneer 200,PNR2,,1
+Alpi Pioneer 330,PNR3,,1
+Alpi Pioneer 400,PNR4,,1
+Altair Coelho AC-11,ALC1,,1
+Alvarez Polliwagen,POLI,,1
+Amax Karatoo,KTOO,,1
+Amax Vixen,VIXN,,1
+Amay Sport 1700,SPOR,,1
+AMC Texas Bullet 205,TB05,,1
+American AA-1,AA1,,1
+American AA-5 Tiger,AA5,,1
+American Affordable Vision,VSON,,1
+American Aircraft Falcon XP,FALC,,1
+American Eagle A101,AEA1,,1
+American Homebuilds John Doe,JDOE,,1
+Ameur Baljims,BLBU,,1
+Anahuac Tauro,TARO,,1
+Anderson-Greenwood AG-14,AG14,,1
+Angel 44 Angel,ANGL,,1
+Antoniewski AT-1,AT1,,1
+Antonov An-2,AN2,,1
+Antonov An-28,AN28,,1
+Antonov An-3,AN3,,1
+Applebay Zia,ZIA,,1
+Aquila A210,A210,,1
+Arado Ar-79,AR79,,1
+Arctic S-4 Privateer,S4,,1
+Arion LS-1 Lightning,ALIG,,1
+Arnet Pereyra Zephyr 2,ZEP2,,1
+Arrow Sport,ARWF,,1
+Arrow Yarrow Arrow,YARR,,1
+ARV Super 2,ARV1,,1
+Asap Beaver,BEVR,,1
+Asap Chinook,CHIN,,1
+Asso Aerei 10 Jewel,ASOX,,1
+Asso Aerei 4 Whisky,ASO4,,1
+Asso Aerei 5 Champion,ASO5,,1
+Associated Air Liberty 181,L181,,1
+Atac Patriot 2,PAT2,,1
+Atec 321 Faeta,FAET,,1
+Atec Zephyr,ZEPH,,1
+ATG 1 Javelin,ATG1,,1
+Aura Aero Integral,INTG,,1
+Auster AOP3,AUS3,,1
+Auster AOP4,AUS4,,1
+Auster AOP5,AUS5,,1
+Auster AOP6,AUS6,,1
+Auster AOP7,AUS7,,1
+Auster AOP9,AUS9,,1
+Auster D-4,D4,,1
+Auster D-5,D5,,1
+Auster D-6,D6,,1
+Auster J-1,J1,,1
+Auster J-2 Arrow,AUJ2,,1
+Auster J-4 Archer,AUJ4,,1
+Auster J-5 Adventurer,ADVE,,1
+Auster J-5 Aiglet Trainer,AIGT,,1
+Auster J-5 Autocar,ACAR,,1
+Auster J-5R Alpine,ALPI,,1
+Austflight Drifter,DRIF,,1
+Australite Ultrabat,UBAT,,1
+Avantage A-29,A29,,1
+Avantage A-31 Spectrum,A31,,1
+Avantage A-35 Scanner,A35,,1
+Aveko Flamingo,VL3,,1
+Avia Accord,ACRD,,1
+Avia Baltika Lak-X,LAKX,,1
+Aviadesign A-16 Sport Falcon,A16,,1
+Aviakit Vega 3000,VG3T,,1
+Aviamilano Nibbio,NIBB,,1
+Aviamilano Scricciolo,P19,,1
+Aviaotechnica SL90 Leshii,SL90,,1
+Aviat Special,M110,,1
+Aviation Development Alaskan Bushmaster,ALBU,,1
+Aviation Enterprises Magnum,MGNM,,1
+Aviation Merkury,MERK,,1
+Aviation Traders ATL-98 Carvair,CARV,,1
+Avid Flyer,AVID,,1
+Avid Magnum,MAGN,,1
+Avioane IAR-99 Soim,IR99,,1
+Avion F-1 Favorit,F1FV,,1
+Avions Fairey Nipper,NIPR,,1
+Avions Fairey Tipsy Junior,TIJU,,1
+Avions Fairey Tipsy Trainer,TIPB,,1
+Avipro RB-4 Bearhawk,BEAR,,1
+Avro 504 Replica,A504,,1
+Avro 652 Anson,ANSN,,1
+Avro Avian,AVIN,,1
+Avro Lancaster,LANC,,1
+Avro Shackleton,SHAC,,1
+Avro Tutor,TUTR,,1
+Avtek 400,AVK4,,1
+Azalea Saberwing,SABW,,1
+B&F TECHNIK FK-12 Comet,FK12,,1
+B&F TECHNIK FK-14 Polaris,FK14,,1
+B&F TECHNIK FK-9,FK9,,1
+BAC P-84 Jet Provost,JPRO,,1
+BAC Strikemaster,STRK,,1
+Bakeng Double Duce,DDUC,,1
+Bakeng Duce,DUCE,,1
+Barr Six,BAR6,,1
+Baykar Akinci,AKNC,,1
+Baykar Kizilelma,KZLA,,1
+Baykar TB-2,BTB2,,1
+Baykar TB-3,BTB3,,1
+Bdc Aero Puma,BPUM,,1
+Beachner V-8 Special,V8SP,,1
+Beagle A109 Airedale,AIRD,,1
+Beagle B-206,BASS,,1
+Beagle Pup,PUP,,1
+Beagle-Auster E-3 AOP11,AU11,,1
+Bearhawk 5,BEA5,,1
+Bearhawk Companion,BCMP,,1
+Bearhawk Lsa,BLSA,,1
+Bede BD-10 Falcon,BD10,,1
+Bede BD-12,BD12,,1
+Bede BD-17 Nuggett,BD17,,1
+Bede BD-4,BD4,,1
+Bede BD-5B/D/G,BD5,,1
+Bede BD-5J,BD5J,,1
+Bede BD-5TP,BD5T,,1
+Beech 100 King Air,BE10,,1
+Beech 17 Staggerwing,BE17,,1
+Beech 18 Expetitor,BE18,,1
+Beech 18 Turbine,B18T,,1
+Beech 19 Sport,BE19,,1
+Beech 23 Sundowner,BE23,,1
+Beech 24 Sierra,BE24,,1
+Beech 300 Super King Air,BE30,,1
+Beech 33 Bonanza,BE33,,1
+Beech 35 Bonanza,BE35,,1
+Beech 36 Bonanza,BE36,,1
+Beech 36 Turbine Bonanza,B36T,,1
+Beech 50 Excalibur,BE50,,1
+Beech 55 Baron,BE55,,1
+Beech 56 Turbo Baron,BE56,,1
+Beech 58 Baron,BE58,,1
+Beech 58TC Baron,B58T,,1
+Beech 60 Duke,BE60,,1
+Beech 60 Royal Turbine Duke,B60T,,1
+Beech 65 Queen Air,BE65,,1
+Beech 70 Queen Air,BE70,,1
+Beech 76 Duchess,BE76,,1
+Beech 77 Skipper,BE77,,1
+Beech 80 Queen Air,BE80,,1
+Beech 88 Queen Air,BE88,,1
+Beech 90 King Air,BE9L,,1
+Beech 95 Travel Air,BE95,,1
+Beech 99 Airliner,BE99,,1
+Beech B36TC Bonanza,BT36,,1
+Beech F90 King Air,BE9T,,1
+Beech QU-22,U22,,1
+Beech T-34 Mentor,T34P,,1
+Beech T-34C Turbo Mentor,T34T,,1
+Beech U-21 Ute,U21,,1
+Beech-Sferma 60 Marquis,BS60,,1
+Beechcraft 220 Denali,BE22,,1
+Beechcraft T-6 Texan 2,TEX2,,1
+Beets Special,GBSP,,1
+Beijing Keyuan AD-200,AD20,,1
+Belite CH-2A Chipper 2,CHP2,,1
+Bell P-39 Airacobra,P39,,1
+Bell P-63 Kingcobra,P63,,1
+Bellanca 14,B14A,,1
+Bellanca 17 Viking,BL17,,1
+Bellanca 19 Skyrocket,BL19,,1
+Bellanca 260,B14B,,1
+Bellanca 260C,B14C,,1
+Bellanca 7 Champion,CH7A,,1
+Bellanca 7 Citabria,CH7B,,1
+Bellanca 8 Decathlon,BL8,,1
+Bellanca Eagle,DW1,,1
+Bellanca Skyrocket,PACE,,1
+Bellanca T-250 Aries,T250,,1
+Berkut Berkut,BKUT,,1
+Best Off Nynja,NNJA,,1
+Best Off Sky Ranger,SKRA,,1
+Bharat Swati,SWAT,,1
+Blackshape Gabriel,GABR,,1
+Blackshape Prime,PRIM,,1
+Blackwing BW-600,BW60,,1
+Blackwing BW-635,BW6T,,1
+Bleriot 11 Replica,BL11,,1
+Blue Yonder E-Z Flyer,EZFL,,1
+Blue Yonder E-Z Harvard,EZHV,,1
+Blue Yonder E-Z King Cobra,EZKC,,1
+Blue Yonder Merlin,MAME,,1
+Blue Yonder Twin E-Z Flyer,EZFT,,1
+Boeing 40,BO40,,1
+Boeing 451 Scout,YL15,,1
+Boeing 747-400D,B74D,,1
+Boeing Australia MQ-28 Ghost Bat,Q28,,1
+Boeing B-17 Flying Fortress,B17,,1
+Boeing B-29 Superfortress,B29,,1
+Boeing C-97 Stratofreighter,C97,,1
+Boeing MQ-25 Stingray,Q25,,1
+Boeing T-7 Red Hawk,BT7,,1
+Boeing X-32,X32,,1
+Boisavia B-60x Mercurey,B60,,1
+Bolkow BO-107,KL07,,1
+Bolkow BO-208 Junior,JUNR,,1
+Boom XB-1,XB1,,1
+Bot Aircraft SC-07 Speed Cruiser,BISC,,1
+Bourdon Kitty Hawk,KITH,,1
+Bowers Fly Baby 1A,FB1A,,1
+Bowers Fly Baby 1B,FB1B,,1
+Bradley BA-100 Aerobat,BBAT,,1
+Brandli Cherry,BX2,,1
+Brditschka HB-21 Hobbyliner,HB21,,1
+Brditschka HB-3,HB3,,1
+Breguet 1050 Alize,ALIZ,,1
+Breguet 14 Replica,BR14,,1
+Bristol 149 Bolingbroke,BLEN,,1
+Bristol F-2B Fighter Replica,BFIT,,1
+British Aerospace Harrier,HAR,,1
+British Aerospace SA-3 Bulldog,BDOG,,1
+British Aerospace T-45 Goshawk,HAWK,,1
+Britten-Norman BN-2 Islander,BN2P,,1
+Britten-Norman BN-2T Turbine Islander,BN2T,,1
+Britten-Norman Trislander,TRIS,,1
+Brm Aero Bristell B23,BR23,,1
+Brm Aero Bristell B23 Energic,B23E,,1
+Brm Aero Bristell B8,BR8,,1
+Brm Aero Bristell Energic,NG5E,,1
+Brm Aero NG-4,NG4,,1
+Brm Aero NG-5/6 Bristell,NG5,,1
+Brochet MB-72/76,MB70,,1
+Brochet MB-80/83,MB80,,1
+Brokaw BJ-250 Bullet,BULT,,1
+Brooklands OA-7 Optica,OPCA,,1
+Brumby 600,BR60,,1
+Brumby 610 Evolution,BR61,,1
+Buchanan Ozzie Mozzie,OZZI,,1
+Bucker Bu-131 Jungmann,BU31,,1
+Bucker Bu-133 Jungmeister,BU33,,1
+Bucker Bu-183 Bestmann,BU81,,1
+Bucuresti IAR-827 Dacic,IR27,,1
+Buethe Barracuda,BARC,,1
+Buhl Sport Airsedan,BCA3,,1
+BUL Zulu,ZULU,,1
+Bushby M-2 Mustang 2,MUS2,,1
+Bushby Midget Mustang,MIMU,,1
+Bye Aerospace eFlyer 2,EF2,,1
+CAB CY-30 Supercab,GY30,,1
+CAB GY-20 Minicab,GY20,,1
+Cabrinha Free Spirit,FREE,,1
+Cadcor Chanute,CHAN,,1
+CAG Toxo,TOXO,,1
+Caiga AG-100,AG10,,1
+Callair A-4,CLA,,1
+Cameron P-51G Grand 51,GR51,,1
+Campana AN-4,CAN4,,1
+Canada Air Rv Griffin,GRIF,,1
+Canadair CL-44,CL44,,1
+Canadair Tutor,CL41,,1
+Cap Aviation CAP-10,CP10,,1
+Capella T-Raptor,TRAP,,1
+Caproni Vizzola C-22J Ventura,C22J,,1
+Carlson Skycycle,CYCL,,1
+Carlson Sparrow 2,SPR2,,1
+Carriou CL-8 RSA Club,CL8,,1
+CASA C-101 Aviojet,C101,,1
+CASA HA-220 Super Saeta,SATA,,1
+Cata Oryx,LMK1,,1
+Caudron C-270 Luciole,C270,,1
+Caudron G-3 Replica,CG3,,1
+Caudron JN-760 Cyclone Replica,JN76,,1
+CEA 309 Mehari,C309,,1
+CEA 311 Anequim,C311,,1
+Cea-Ufmg CEA-306 CB-10 Triathlon,C306,,1
+Celair Eagle 300,CEGL,,1
+Centre Est Ambassadeur,DR10,,1
+Centre Est Dauphin,DR22,,1
+Centre Est DR-250 Capitaine,D250,,1
+Centre Est DR-253 Regent,D253,,1
+Centre Est Prince,DR30,,1
+Century Jetstream 3,JS3,,1
+Cerva CE-43 Guepard,CE43,,1
+Cessna 120,C120,,1
+Cessna 140,C140,,1
+Cessna 150,C150,,1
+Cessna 152,C152,,1
+Cessna 162 Skycatcher,C162,,1
+Cessna 170,C170,,1
+Cessna 172 Skyhawk,C172,,1
+Cessna 172R Cutlass RG,C72R,,1
+Cessna 175 Skylark,C175,,1
+Cessna 177 Cardinal,C177,,1
+Cessna 177RG Cardinal RG,C77R,,1
+Cessna 180 Skywagon,C180,,1
+Cessna 182 Skylane,C182,,1
+Cessna 185 Skywagon,C185,,1
+Cessna 188 AgTruck,C188,,1
+Cessna 190,C190,,1
+Cessna 195,C195,,1
+Cessna 201 Centurion,C210,,1
+Cessna 205,C205,,1
+Cessna 206 Stationair,C206,,1
+Cessna 206 Turbine,C06T,,1
+Cessna 207 Turbine,C07T,,1
+Cessna 207 Turbo Stationair,C207,,1
+Cessna 208 Caravan,C208,,1
+Cessna 240 Corvalis TTx,C240,,1
+Cessna 305/341 Bird Dog,O1,,1
+Cessna 310,C310,,1
+Cessna 318,T37,,1
+Cessna 318 Dragonfly,A37,,1
+Cessna 320 Skyknight,C320,,1
+Cessna 335,C335,,1
+Cessna 336 Skymaster,C336,,1
+Cessna 337 Super Skymaster,C337,,1
+Cessna 340 Super,C340,,1
+Cessna 350 Corvalis,COL3,,1
+Cessna 400 Corvalis TT,COL4,,1
+Cessna 402 Businessliner,C402,,1
+Cessna 402 Turbine,C02T,,1
+Cessna 404 Titan,C404,,1
+Cessna 404 Turbine,C04T,,1
+Cessna 408 SkyCourier,C408,,1
+Cessna 411,C411,,1
+Cessna 414 Chancellor,C414,,1
+Cessna 414 Turbine,C14T,,1
+Cessna 421 Executive Commuter,C421,,1
+Cessna 421 Turbine,C21T,,1
+Cessna 425 Corsair,C425,,1
+Cessna 441 Conquest,C441,,1
+Cessna 500 Citation 1,C500,,1
+Cessna 501 Citation 1SP,C501,,1
+Cessna 510 Citation Mustang,C510,,1
+Cessna 525 Citation M2,C25M,,1
+Cessna 525 CitationJet,C525,,1
+Cessna 525A Citation CJ2,C25A,,1
+Cessna 525B Citation CJ3,C25B,,1
+Cessna 526 CitationJet,C526,,1
+Cessna 550 Citation S2,C550,,1
+Cessna 550B Citation Bravo,C55B,,1
+Cessna 551 Citation 2SP,C551,,1
+Cessna Aw,CAW,,1
+Cessna Bobcat,T50,,1
+Cessna C-165 Airmaster,CMAS,,1
+Cessna DC-6,CDC6,,1
+Cessna E350,E350,,1
+Cessna F406 Caravan 2,F406,,1
+Cessna Ngp,CNGP,,1
+Cessna P210 Centurion,P210,,1
+Cessna P210 Turbine,C10T,,1
+Cessna P337 Skymaster,P337,,1
+Cessna R182 Skylane RG,C82R,,1
+Cessna T182 Turbo Skylane,C82S,,1
+Cessna T206 Turbo Stationair,T206,,1
+Cessna T210 Turbo Centurion,T210,,1
+Cessna T303 Crusader,C303,,1
+Cessna TR182 Turbo Skylane RG,C82T,,1
+CFM Star Streak,STST,,1
+Chalard Julcar,JRC1,,1
+Champion 402 Lancer,CH40,,1
+Chance Vought F-8 Crusader,F8,,1
+Chance Vought F4U Corsair,CORS,,1
+Chasle LMC-1 Sprintair,LMC1,,1
+Chasle Tourbillon,YC12,,1
+Chengdu F-10,J10,,1
+Chengdu FC-1 Super 7,FC1,,1
+Chichester-Miles Leopard,LEOP,,1
+Chilton DW-1,CDW1,,1
+Chris Tena Mini Coupe,MCOU,,1
+Chrislea Super Ace/Skyjeep,CH3,,1
+Christen Eagle,EAGL,,1
+Christen Husky,HUSK,,1
+Circa Nieuport 12-7/8,CN12,,1
+Cirrus SF-50 Vision,SF50,,1
+Cirrus SR-20,SR20,,1
+Cirrus SR-22,SR22,,1
+Cirrus SR-22T Turbo,S22T,,1
+Cirrus VK-30 Cirrus,VK3P,,1
+Cirrus VK-30 Turbine,VK3T,,1
+Class Bush Caddy L-160,CAD4,,1
+Co-Z Cozy,COZY,,1
+Co-Z CozyJet,COZJ,,1
+Cobalt Co-50 Valkyrie,CO50,,1
+Cobra Arrow,COAR,,1
+Colomban Ban-Bi,MCR1,,1
+Colomban Cricri,MC10,,1
+Colyaer Martin 3,CMA3,,1
+Com Air 4,CA4,,1
+Commonwealth CA-19 Boomerang,CA19,,1
+Commonwealth CA-25 Winjeel,CA25,,1
+Commonwealth Wirraway,WIRR,,1
+Comp Air 10,CA1P,,1
+Comp Air 10XLT,CA1T,,1
+Comp Air 12,CA12,,1
+Comp Air 3,CA3,,1
+Comp Air 6,CA6,,1
+Comp Air 7P,CA7P,,1
+Comp Air 7T,CA7T,,1
+Comp Air 8,CA8,,1
+Comp Air 9,CA9,,1
+Comp Air Jet,CAJ,,1
+Concorde,CONC,,1
+Consolidated B-24 Liberator,B24,,1
+Convair Convairliner,CVLP,,1
+Convair L-13 Centaur,L13,,1
+Convair P4Y Privateer,P4Y,,1
+Convair QF-106 Delta Dart,F106,,1
+Convair Valiant,VALI,,1
+Corby CJ-1 Starlet,CJ1,,1
+Corvus CA-41 Racer,CA41,,1
+Corvus Corone,CORO,,1
+Coupe JC-01,JC01,,1
+Coupe JC-200,JC02,,1
+Cranfield Eagle,CRA1,,1
+Creative Flight Aerocat SR,CAT1,,1
+Creative Flight Aerocat TR,CAT2,,1
+Croses EC-6 Criquet,EC6,,1
+CSA Parrot,PROT,,1
+CSA PS-28 Cruiser,CRUZ,,1
+Cub Crafters CC-11 Carbon Cub,CC11,,1
+Cub Crafters CC-19 XCub,CC19,,1
+Culp MonoCulp,MOCU,,1
+Culp Sopwith Pup,CPUP,,1
+Culp Special,CULP,,1
+Culver Cadet,CUCA,,1
+Culver Dart,DRTG,,1
+Culver V,CULV,,1
+Curtiss C-46 Commando,C46,,1
+Curtiss P-40 Kittyhawk,P40,,1
+Curtiss-Robertson Robin,CRBN,,1
+Custom Flight Bright Star,BSTR,,1
+Custom Flight Lite Star,LSTR,,1
+Custom Flight North Star,NSTR,,1
+Custom Flight North Star 6 Galaxie,NST6,,1
+Cvjetkovic CA-61 Mini Ace,CA61,,1
+Cvjetkovic CA-65 Skyfly,CA65,,1
+Cvut UL-39 Albi,UL39,,1
+DAC RangeR,RNGR,,1
+Daher Kodiak 100,K100,,1
+Daher Kodiak 200,K200,,1
+Daher-Socata GY-80 Horizon,GY80,,1
+Daher-Socata TB-360 Tangara,GA7,,1
+Dallach D-4 Fascination,DAL4,,1
+Dallach D-5 Evolution,DAL5,,1
+Damoure-Fabre DFL-6 Saphir,DFL6,,1
+Dapuzzo D-201 Sportwing,D201,,1
+Dapuzzo Senior Aero Sport,SRAS,,1
+Dassault Etendard 4,ETAR,,1
+Dassault Flamant,FLAM,,1
+Dassault MD-454A Mystere 4A,MYS4,,1
+Dassault Mirage 2000,MIR2,,1
+Dassault Mirage 3,MIRA,,1
+Dassault Mirage F1,MRF1,,1
+Dassault Super Mystere B2,SMB2,,1
+Davis DA-2,DA2,,1
+Davis DA-5,DA5,,1
+De Havilland DH-100/115 Vampire,VAMP,,1
+De Havilland DH-104 Dove,DOVE,,1
+De Havilland DH-112 Venom,VNOM,,1
+De Havilland DH-60 Moth,DH60,,1
+De Havilland DH-80 Puss Moth,DH80,,1
+De Havilland DH-82 Tiger Moth,DH82,,1
+De Havilland DH-83 Fox Moth,DH83,,1
+De Havilland DH-84 Dragon,DH84,,1
+De Havilland DH-85 Leopard Moth,DH85,,1
+De Havilland DH-87 Hornet Moth,DH87,,1
+De Havilland DH-88 Comet Replica,DH88,,1
+De Havilland DH-90 Dragonfly,DH90,,1
+De Havilland DH-94 Moth Minor,DH94,,1
+De Havilland DH-98 Mosquito,MOSQ,,1
+De Havilland DHA-3 Drover,DHA3,,1
+De Havilland DHC-1 Chipmunk,DHC1,,1
+De Havilland DHC-2 Beaver,DHC2,,1
+De Havilland DHC-2 Turbo Beaver,DH2T,,1
+De Havilland DHC-3 Otter,DHC3,,1
+De Havilland DHC-3 Turbo Otter,DH3T,,1
+De Havilland DHC-4 Caribou,DHC4,,1
+De Havilland DHC-6 Twin Otter,DHC6,,1
+De Havilland Dragon Rapide,DH89,,1
+De Havilland Heron,HERN,,1
+Dean-Wilson Whitney Boomerang,WBOO,,1
+Deborde-Rolland Cobra,COBR,,1
+Delfin 10 Karas,DF10,,1
+Delfin 10M R-Line,DF1M,,1
+Delfin 2,DF2,,1
+Delfin 3,DF3,,1
+Delisle Cadi,CAD2,,1
+Denize RD-205 Raid Driver,RD20,,1
+Derringer New Derringer,D1,,1
+Dewoitine D-26/27,DWD2,,1
+Diamond D-Jet,DJET,,1
+Diamond DA-20,DV20,,1
+Diamond DA-36 E-Star,DA36,,1
+Diamond DA-40 Club Star,DA40,,1
+Diamond DA-42 Guardian,DA42,,1
+Diamond DA-50 Magnum,DA50,,1
+Diamond DA-62,DA62,,1
+Diamond Dart-450,DT45,,1
+Diamond H-36 Dimona,DIMO,,1
+Dickey E-Racer,ERAC,,1
+Dijkman-Dulkes Dijkhastar 3,DIJ3,,1
+Dinfia IA-46 Ranquel,IA46,,1
+Dinfia IA-51 Tehuelche,IA51,,1
+Direct Fly Alto,ALTO,,1
+Dorna D-139 Free Bird,D139,,1
+Dornier 228,D228,,1
+Dornier Do-27,DO27,,1
+Dornier Do-28B,DO28,,1
+Dornier Do-28D Skyservant,D28D,,1
+Dornier Do-28D-6 Turbo Skyservant,D28T,,1
+Douglas A-1 Skyraider,A1,,1
+Douglas A-20 Havoc,A20,,1
+Douglas A-26 Invader,B26,,1
+Douglas A-4 Skyhawk,A4,,1
+Douglas B-23 Dragon,B23,,1
+Douglas DC-2,DC2,,1
+Douglas DC-3 Dakota,DC3,,1
+Douglas DC-3 Super Dakota,DC3S,,1
+Douglas DC-4 Skymaster,DC4,,1
+Douglas DC-6 Liftmaster,DC6,,1
+Douglas DC-7 Seven Seas,DC7,,1
+Douglas Sbd Dauntless,SBD,,1
+Dova Infinity,DV2,,1
+Dova Skylark,DV1,,1
+Dream Tundra,TNDR,,1
+Driggs Skylark,DSLK,,1
+Dronamics Black Swan,BSWN,,1
+Druine D-5 Turbi,D5TU,,1
+Druine D-62 Condor,D6CR,,1
+Dubna Osa,DUB2,,1
+Durand Mk5,DUR5,,1
+Duruble RD-03 Edelweiss,RD03,,1
+Dyke JD-2 Delta,JD2,,1
+Dynaero CR-120,CR10,,1
+Dynaero MCR-2/4,MCR4,,1
+Dynaero MCR-R180,MCRR,,1
+Dynaero Twin-R,TWIR,,1
+E&K SBM-03 Kos,SBM3,,1
+E-7 GROUP Bush Hog,E7BH,,1
+EAA Biplane,BIPL,,1
+Eagle Aircraft Eagle X-TS,EAGX,,1
+Early Bird Spad 13,ES13,,1
+Eclipse 400,EA40,,1
+Eclipse 550,EA50,,1
+Egvoyager VR-203,VR20,,1
+Ekolot JK-05,JK05,,1
+Ekolot Topaz,KR30,,1
+EKW C-3605,C365,,1
+Elbit Hermes 900,HRM9,,1
+Electroflight Nxte,NXTE,,1
+Elitar IE-101,ELTR,,1
+Elitar IE-202,EL20,,1
+Elitar Sigma,SIGM,,1
+Elixir,LXR,,1
+Elmwood CA-05 Christavia Mk1,CHR1,,1
+Elmwood CH-8 Christavia Mk4,CHR4,,1
+Emair Paymaster,MA1,,1
+Embraer EMB-110 Bandeirante,E110,,1
+Embraer EMB-121 Xingu,E121,,1
+Embraer EMB-200 Ipanema,IPAN,,1
+Embraer EMB-312 Tucano,TUCA,,1
+Embraer EMB-314 Super Tucano,E314,,1
+Embraer EMB-326 Xavante,M326,,1
+Embraer EMB-500 Phenom 100,E50P,,1
+Enaer T-35 Aucan,TPIL,,1
+Enaer T35 Pillan,PILL,,1
+Epervier,EPER,,1
+Epervier X-1,EPX1,,1
+Epic Aircraft Elite,ELIT,,1
+Epic Aircraft Epic Escape,ESCA,,1
+Epic Aircraft Epic LT,EPIC,,1
+Epic Aircraft Epic Victory,EVIC,,1
+Euro-Enaer EE-10 Eaglet,NMCU,,1
+Euro-Fly FB-5 Star Light,FB5,,1
+Euro-Fly Flash,FLSH,,1
+Euroalal Jet Fox,JFOX,,1
+Eurodisplay SR-01 Magic,SR01,,1
+Euronef ATTL-1,ATTL,,1
+Europa,EUPA,,1
+Evangel 4500,EVAN,,1
+Evans Volksplane,VP2,,1
+Evektor Cobra,VUT1,,1
+Evektor EV-55 Outback,EV55,,1
+Evektor SportStar,EVSS,,1
+Evektro EV-97 EuroStar,EV97,,1
+Excel-Jet Sport-Jet 2,SJET,,1
+Explorer 500T,EX5T,,1
+Explorer Ellipse,ELPS,,1
+Express 2000,EXPR,,1
+Extra EA-200,E200,,1
+Extra EA-230,E230,,1
+Extra EA-300/330/350,E300,,1
+Extra EA-400,E400,,1
+Extra EA-500,E500,,1
+Extra Ng,EXNG,,1
+Fairchild C-119 Flying Boxcar,C119,,1
+Fairchild C-123 Provider,C123,,1
+Fairchild C-82 Packet,C82,,1
+Fairchild F-11 Husky,FA11,,1
+Fairchild F-24 Argus,FA24,,1
+Fairchild M-26 Cornell,FA62,,1
+Fairey Gannet,GANT,,1
+Fairey Swordfish,SWOR,,1
+Fairy Firefly,FFLY,,1
+Fajr F-3,FJR3,,1
+Falcomposite LN-27 Furio,LN27,,1
+Falcon Air Falcon 402,F402,,1
+Falcon Air Falcon 421,F421,,1
+Falconair P-51D Mustang,FS51,,1
+Falconar HM-380 Ladybug,HM38,,1
+Fantasy Air Allegro,ALGR,,1
+Farigoux Origan,FG01,,1
+Farnborough F-1 Kestrel,KEST,,1
+Feugray TR-200,TR20,,1
+Feugray TR-260 Sirius,TR26,,1
+FFA AS-202 Bravo,AS02,,1
+FFA AS-202-32TP Turbine Bravo,AS2T,,1
+FFT Eurotrainer 2000,EURT,,1
+FFT Speed Canard,SC01,,1
+Fiat G-46,G46,,1
+Fiat G-59,G59,,1
+Fiat G-91R,G91,,1
+Fieseler Fi-156 Storch,F156,,1
+Fighter Escort Wings P-51,FE51,,1
+Fike D,FIKD,,1
+Fike E,FIKE,,1
+Fisher Aero Celebrity,CLBR,,1
+Fisher Aero Culex,CULX,,1
+Fisher Dakota Hawk,DAKH,,1
+Fisher Horizon,HORZ,,1
+Fisher R-80 Tiger Moth,TMOT,,1
+Flaeming Air FA-01,FA01,,1
+Flaeming Air FA-02,FA02,,1
+Flaeming Air FA-03,FA03,,1
+Flaeming Air FA-04,FA04,,1
+Flaglor Scooter,SCTR,,1
+Flaris LAR-1,LAR1,,1
+Fleet 2,FLE2,,1
+Fleet 7,FLE7,,1
+Fleet 80 Canuck,CNUK,,1
+Fleet Finch,FINC,,1
+Fleet Fort,FORT,,1
+Fletcher FU-24,FU24,,1
+Flight Degisn-Vessel KLA-100,KL10,,1
+Flight Design Ct,FDCT,,1
+Flight Design F-2,FDF2,,1
+Flight Design F-2e,FD2E,,1
+Flight Design Mc,FDMC,,1
+Flight Engineers PL-12 Airtruk,PL12,,1
+Flightworks Capella,CAPL,,1
+Flitzer Z-1,FLIZ,,1
+Flsz DK-1 Der Kricket,KRIC,,1
+Fly Synthesis Storch,STCH,,1
+Fly Synthesis Syncro,SYNC,,1
+Fly Synthesis Texan,TEXA,,1
+Fly Synthesis Wallaby,WLBY,,1
+Flyer NG/SS,FLSS,,1
+Flyer Pelican,PELI,,1
+Flying Legend Tucano Replica,TUCR,,1
+Flying Legend Turbine Tucano Replica,TUCT,,1
+Flying Machines FM-250 Vampire,FM25,,1
+Flyitalia MD-3 Rider,MD3R,,1
+FMA IA-58 Pucara,IA58,,1
+FMA IA-63 Pampa,IA63,,1
+FMP Qualt,QALT,,1
+Focke-Wulf Fw-190 Replica,FW90,,1
+Focke-Wulf Fw-44 Stieglitz,FW44,,1
+Fokker D-21 Replica,D21,,1
+Fokker D-7 Replica,D7,,1
+Fokker D-8 Replica,D8,,1
+Fokker Dr-1,DR1,,1
+Fokker F-7 Replica,F7,,1
+Fokker S-11 Instructor,S11,,1
+Fokker Super Universal,SUNV,,1
+Ford Tri-Motor,TRIM,,1
+Found 100 Centennial,CENT,,1
+Found FB-2 Bush Hawk,FBA2,,1
+Four Winds 192,FW19,,1
+Four Winds FX-210,FW21,,1
+Fournier RF-10,RF10,,1
+Fournier RF-3,RF3,,1
+Fournier RF-4,RF4,,1
+Fournier RF-47,RF47,,1
+Fournier RF-5,RF5,,1
+Fournier RF-6,RF6,,1
+Fournier RF-9,RF9,,1
+Foxcon Terrier,TERR,,1
+Freddom Phoenix,PHNX,,1
+Freewing Freebird Mk5,FBIR,,1
+Frontier MD-2,FRON,,1
+FRY Esprit,VF2,,1
+Fuji FA-200 Aero Subaru,SUBA,,1
+Fuji KM-2,KM2,,1
+Fuji T-7,T7,,1
+Fuji T1F,T1,,1
+Funk B,FNKB,,1
+Futji T-5,T5,,1
+G1 AVIATION G-1,G1,,1
+GAF N22/24 Nomad,NOMA,,1
+Game Composites GameBird,GB1,,1
+Ganzavia GAK-22 Dino,DINO,,1
+Gardan GY-100 Bagheera,GY10,,1
+Garrison Melmoth 2,MEL2,,1
+Gatard AG-02 Poussin,AG02,,1
+Gatard AG-04 Pigeon,AG04,,1
+General Aircraft Skyfarer,G180,,1
+General Atomics MQ-9 Reaper,Q9,,1
+General Atomics RQ-1 Predator,Q1,,1
+General Avia F-1300 Jet Squalus,JSQA,,1
+General Avia F-15 Picchio,PICO,,1
+General Avia F-20TP Condor,CNDR,,1
+General Avia F-22 Pinguino,PINO,,1
+General Avia F-220 Airone,ARON,,1
+General Avia Pegaso,PEGA,,1
+General Dynamics F-16 Fighting Falcon,F16,,1
+General Dynamics F-16XL Fighting Falcon,F16X,,1
+Genevation GenPro,GPRO,,1
+Gippsaero GA-10,GA10,,1
+Gippsaero GA-8 Airvan,GA8,,1
+Gippsland GA-200 Fatman,GA20,,1
+Glasair,GLAS,,1
+Glasair SH-4 GlaStar,GLST,,1
+Glass STOLGlass,SG70,,1
+Glider,GLID,,1
+Globe Swift,GC1,,1
+Gloster Gauntlet,GAUN,,1
+Gloster Gladiator,GLAD,,1
+GM&T Pretty Flight,PRET,,1
+Goair Trainer,GOTR,,1
+Gogetair One,ONE,,1
+Golden Car F-30 Brio,F30,,1
+Golden Circle T-Bird 3,TBR3,,1
+Great Lakes 2T-1,G2T1,,1
+Great Plains Sonerai,SRAI,,1
+Grega GN-1 Aircamper,CAMP,,1
+Griffon Aero Griffon,GRFN,,1
+Griffon Lionheart,LION,,1
+Grob G-109,G109,,1
+Grob G-115,G115,,1
+Grob G-115T Acro,G15T,,1
+Grob G-120,G120,,1
+Grob G-120TP,G12T,,1
+Grob G-140TP,G140,,1
+Grob G-160,G160,,1
+Grob G-180 SPn Utility Jet,GSPN,,1
+Grob G-520 Strato 1,EGRT,,1
+Grob G-850 Strato 2C,G850,,1
+Grob GF-200,GF20,,1
+Groppo G-70,G70,,1
+Groppo Trail,TRAL,,1
+Grosso Easy Eagle,EAEA,,1
+Grove Whisper,WHIS,,1
+Grumman F-8F Bearcat,BCAT,,1
+Grumman F3F Replica,F3F,,1
+Grumman F4F Wildcat,WCAT,,1
+Grumman F6F Hellcat,HCAT,,1
+Grumman F7F Tigercat,TCAT,,1
+Grumman F9F Panther,F9F,,1
+Grumman G-164 Ag-Cat,G164,,1
+Grumman G-164 Turbo Ag-Cat,G64T,,1
+Grumman G-40 Avenger,TBM,,1
+Grumman G-96 Trader,G96,,1
+Grumman S-2 Tracker,S2P,,1
+Grumman X-29,X29,,1
+Gryf P-27 Skyster,P27,,1
+Guizhou Shanying,JL9,,1
+Halberstadt CL-4 Replica,HLC4,,1
+Halberstadt D-4 Replica,HLD4,,1
+Hall Harpoon,WH4,,1
+Halley Apollo Fox,AFOX,,1
+Halsted Saffire,SAFF,,1
+Handley Page Jetstream 1,JS1,,1
+Handley Page Jetstream T.Mk.2,JS20,,1
+Harbin Y-11,Y11,,1
+Harbin Y-12E Harbinger,Y12,,1
+Harmon Mister America,MRAM,,1
+Harmon Rocket,HROC,,1
+HAT LS-2,LS2,,1
+Hatz CB-1 Classic,CB1,,1
+Hawker Cygnet Replica,CYGT,,1
+Hawker Fury,FURY,,1
+Hawker Hind,HIND,,1
+Hawker Hunter,HUNT,,1
+Hawker Hurricane,HURI,,1
+Hawker Sea Hawk,SHAW,,1
+Hawker Siddeley Gnat,GNAT,,1
+Hb-Aircraft 202 Fledger,H202,,1
+Hb-Aircraft HB-32 Scanliner,HB23,,1
+Hb-Flugtechnik 204 Tornado,H204,,1
+Hb-Flugtechnik 207 Alfa,H207,,1
+Heinkel He-111,H111,,1
+Helio Courier,COUR,,1
+Helio Stallion,STLN,,1
+Helio Twin Courier,TCOU,,1
+Higer Class Super Hornet,SHOR,,1
+Hindustan HA-31 Basant,HA31,,1
+Hindustan HPT-32 Deepak,HT32,,1
+Hindustan HT-2,HT2,,1
+Hindustan HTT-34,HT34,,1
+Hindustan HTT-40,HT40,,1
+Hindustan Kiran,HT16,,1
+Hindustan Sitara,HT36,,1
+Hindustan Tejas,LCA,,1
+Hirth Hi-27 Acrostar,HI27,,1
+Historical Aircraft Pzl P-11C,HPZL,,1
+Historical Aircraft Ryan Trainer,HRYA,,1
+Hoffman H-40,H40,,1
+Holcomb Perigee,PGEE,,1
+Honda HondaJet,HDJT,,1
+Honda-Mississippi MH-02,MH02,,1
+Hongdu GJ-11,GJ11,,1
+Hongdu K-8 Karakorum,K8,,1
+Hongdu N-5A,N5A,,1
+Hongdu N-5B,N5B,,1
+Hovey Beta Bird,BBIR,,1
+Howard Hughes Pocket Rocket Bipe,PRBP,,1
+Howard Hughes Pocket Rocket Breeze,PRBR,,1
+Howard Hughes Pocket Rocket XP,PRPR,,1
+Howard Hughes Speed SP-2000,LW20,,1
+Howard Hughes Speed SP-4000,LW40,,1
+Howard Hughes Sport 2000,LWIN,,1
+Howard Nightingale,DG15,,1
+HPA Alekto,TT62,,1
+HPA SpeedCruiser,M1SC,,1
+Humbert Moto Du Ciel,MOTO,,1
+Humbert Tetras,TTRS,,1
+Hummel Bird,HUML,,1
+Hummel Hummingbird,HUMM,,1
+Hunting P-56 Provost,PPRO,,1
+Hunting P-66 Pembroke,PEMB,,1
+Hurel-Dubois HD-34,HD34,,1
+Hydroplane Cicada,CICA,,1
+IAI 102/202 Arava,ARVA,,1
+IAI Heron Drone,HRON,,1
+IAI Kfir,KFIR,,1
+Iannaotta I-66 San Francisco,I66,,1
+IAR 46 Katty,IR46,,1
+IAR IS-28M2,IS28,,1
+Ibis Grand Magic,GMGC,,1
+Ibis Magic,MAGC,,1
+Ibis Urraco,URRA,,1
+ICA IAR-28MA,IR28,,1
+ICA IAR-821,IR21,,1
+ICA IAR-822,IR22,,1
+ICA IAR-823,IR23,,1
+ICA IAR-824,IR24,,1
+ICA IAR-825 Triumf,IR25,,1
+ICA IAR-828,I828,,1
+ICA IAR-831 Pelican,IR31,,1
+ICP SA-2 Rampage,SA2,,1
+ICP Ventura,VNTR,,1
+IFB E-Genius,GENI,,1
+III Sky Arrow,SKAR,,1
+III Speed Arrow,SPAR,,1
+Ikar AI-10,AI10,,1
+Ikarus C-42 Bison,C42,,1
+Ilyushin Il-103,I103,,1
+Ilyushin Il-14,IL14,,1
+Impulse Xturn,IMPU,,1
+Indus T-211,T211,,1
+Ineravia I-3,I3,,1
+Innoaviation Genesis,GSIS,,1
+Innovaviation FX-1,FX1,,1
+Inpaer Conquest,INCQ,,1
+Inpaer Excel,INEC,,1
+Inpaer Explorer,INEX,,1
+Interplane Skyboy,SBOY,,1
+Interstate S-1 Cadet,S1,,1
+Intracom Viper,GM17,,1
+Ion,ION,,1
+Ipai 26 Tuca,IP26,,1
+IPE 06 Curucaca,IP06,,1
+IPE 06A,IP6A,,1
+IPE 10,IP10,,1
+IPT Surubim,SURU,,1
+Iriaf Tazarve,TZRV,,1
+Isaacs Fury,IFUR,,1
+Isaacs Spitfire,ISPT,,1
+Isae Omega 2,OMGA,,1
+Israviation ST-50,ST50,,1
+Issoire APM-20 Lionceau,APM2,,1
+Issoire APM-30 Lion,APM3,,1
+Issoire APM-40 Simba,APM4,,1
+Istra Ezhik,EZIK,,1
+J&AS J-6 Fregata,JAJ6,,1
+Jabiru J120,JABI,,1
+Jabiru J160/170,JAB2,,1
+Jabiru J200-450,JAB4,,1
+Jackaroo Thruxton,JARO,,1
+Javelin Wichawk,WICH,,1
+Jihlavan KP-2 Sova,KP2,,1
+Jihlavan KP-5 Skyleader,KP5,,1
+Jihlavan Skyleader 400,J400,,1
+Jihlavan Skyleader 400 Electric,J40E,,1
+Jihlavan Skyleader 600,J600,,1
+Jihlavan Skyleader GP One,GP1,,1
+Jmb Aircraft VL-3 Evolution Turbine,VL3T,,1
+Jodel D-11x/12x,D11,,1
+Jodel D-140 Mousquetaire,D140,,1
+Jodel D-150 Mascaret,D150,,1
+Jodel D-18/19/20,D18,,1
+Jonker Revelation,TS1J,,1
+Junker F-13 Replica,F13,,1
+Junkers Ju-52/3m,JU52,,1
+Junqua RJ-03 Ibis,RJ03,,1
+Jurc MJ-10,MJ10,,1
+Jurca MJ-100 Spitfire Replica,MJ1H,,1
+Jurca MJ-12,MJ12,,1
+Jurca MJ-22,MJ2,,1
+Jurca MJ-3 Dart,MJ3,,1
+Jurca MJ-4 Shadow,MJ4,,1
+Jurca MJ-5 Sirocco,MJ5,,1
+Jurca MJ-51 Sperocco,MJ51,,1
+Jurca MJ-53 Autan,MJ53,,1
+Jurca MJ-55 Biso,MJ55,,1
+Jurca MJ-7 Gnatsum,MJ7,,1
+Jurca MJ-77 Gnatsum,MJ77,,1
+Jurca MJ-8 1-Nine-0,MJ8,,1
+Jurca MJ-80 Focke-Wulf Fw-190 Replica,MJ80,,1
+Jurca MJ-9,MJ9,,1
+Jurca MJ-90 Messerschmitt Bf-109 Replica,MJ90,,1
+Just JA20 Highlander,HIGH,,1
+Just JA30 SuperSTOL,SSTL,,1
+K&S SA-102.5 Cavalier,SA02,,1
+K&S SA-103 Cavalier,SA03,,1
+K&S SA-104 Cavalier,SA04,,1
+K&S SA-105Super Cavalier,SA05,,1
+Kalinauskas RK-5,RK5,,1
+Kaminskas RK-1 Jungster 1,JUN1,,1
+Kaminskas RK-2 Jungster 2,JUN2,,1
+Kari Firefly,KAFI,,1
+Kari Twinbee,KATB,,1
+Kari-Keen Coupe,KK60,,1
+Keleher Lark,KELA,,1
+Kelly D,KELD,,1
+Kestrel K-250,K250,,1
+Keuthan Aircraft Sabre 2,SAB2,,1
+Khrunichev AT-3,KAT3,,1
+Khrunichev T-411 Aist,T411,,1
+Khrunichev T-415 Snegir,T415,,1
+Khrunichev T-419 Strekoza,T419,,1
+Kieger AK-2,KAK2,,1
+Killingsworth DSK-1 Hawk,DSK,,1
+Kimball Rhino,R109,,1
+Kimbrel Dormoy Bathtub,BTUB,,1
+Kinetic Mountain Goat,MOGO,,1
+Kitfox,FOX,,1
+Kitplanes For Africa Explorer,KFAB,,1
+Kitplanes For Africa Safari,KFAS,,1
+Klemm Kl-35,KL35,,1
+Klemm L-25,KL25,,1
+Kls Composites SQ-2000,SQ2T,,1
+Kmbal McCullocoupe,MCUL,,1
+Kodiak Quest 200/900,K900,,1
+Kolb King Colbra,KLBR,,1
+Kolb Laser,KOLL,,1
+Korea Aerospace T-50 Golden Eagle,K50,,1
+Korean Aerospace KT-1,KT1,,1
+Korean Aerospace Naraon,NARN,,1
+Korean Air CHK-91 Chang-Gong,CHGO,,1
+Kovach-Elmendorf ES-3 Docs RX,DOCX,,1
+Kovacs K-51 Peregrino,K51,,1
+Kratos XQ-58 Valkyrie,Q58,,1
+Kreider-Reisner C-2 Challenger,KR31,,1
+Kreider-Reisner C-6 Challenger,KR21,,1
+KREIDER_REISNER C-4 Challenger,KR34,,1
+Krestel Sport Hawk,KEHA,,1
+Krieger AK-1,KAK1,,1
+Krieger AK-3,KAK3,,1
+Kubcek M-2 Scout,M2,,1
+Kubicek M-4 Irbis,IRBS,,1
+Laird LC-1B Commercial,LCB,,1
+Laird Speedwing,LCR,,1
+Lambach HL-2 Replica,HL2,,1
+Lambert M-106,M106,,1
+Lambert M-108,M108,,1
+Lambert M-212 Mission,M212,,1
+Lammer Geyer Jupiter,JUPI,,1
+Lancair 200-320,LNC2,,1
+Lancair 4,LNC4,,1
+Lancair Calima,SNGY,,1
+Lancair Es,LNCE,,1
+Lancair Es-P,LESP,,1
+Lancair Evolution Piston,EVOP,,1
+Lancair Evolution Turbine,EVOT,,1
+Lancair Legacy,LEG2,,1
+Lancair Mako,MAKO,,1
+Lancair NLA-275 Barracuda,CUDA,,1
+Lancair PropJet 4,LNP4,,1
+Lancair Sentry 4T,LNT4,,1
+Lancair Tigress,TGRS,,1
+Lancashire EP-9 Prospector,EP9,,1
+Lanitz Sherwood Ranger,SHRA,,1
+Laser Akro Z,LAKR,,1
+Laven LACO-145,LACO,,1
+Laviasa PA-25 Biplaza Puelche,P25B,,1
+Laviasa Super Master,LV51,,1
+Learjet 23,LJ23,,1
+Learjet 24,LJ24,,1
+Learjet 25,LJ25,,1
+Learjet 29,LJ28,,1
+Lederlin 380 Ladybug,L380,,1
+Legend Turbine Legend,TLEG,,1
+Leger Super-Chipmunk,CHIP,,1
+Leonardo Falco,FLCO,,1
+LET L-13 Blanik,L13M,,1
+LET L-200 Morava,L200,,1
+LET L-39 Albatros,L39,,1
+LET L-410 Turbolet,L410,,1
+LET Z-37 Cmelak,Z37P,,1
+Leza Air Cam,ACAM,,1
+Lh Aviation Ellipse,LH10,,1
+Liberty Bellaire,LIBE,,1
+Liberty XL-2,XL2,,1
+Light Miniature Super Cub,LM5X,,1
+Light Wing AC-4,AC4,,1
+Lilienthal X-32 Bekas,LX32,,1
+Lilienthal X-34 Bekas,LX34,,1
+Lockhed Constellation,CONI,,1
+Lockheed F-104 Starfighter,F104,,1
+Lockheed L-10 Electra,L10,,1
+Lockheed L-12 Electra Junior,L12,,1
+Lockheed L-137 Ventura,L37,,1
+Lockheed L-14 Super Electra,L14,,1
+Lockheed L-18 Lodestar,L18,,1
+Lockheed Martin F-35 Lightning 2,F35,,1
+Lockheed Martin X-59 QueSST,X59,,1
+Lockheed Neptune,P2,,1
+Lockheed P-38 Lightning,P38,,1
+Lockheed T-33,T33,,1
+Lockheed U-2,U2,,1
+Lockheed YO-3,O3,,1
+Lockheed-Martin F-35B Lightning 2,VF35,,1
+Loehle Spitfire Elite,SPEL,,1
+Lombardi FL-3 Aviastarlet,FL3,,1
+Lombardi LM-5 Aviastar,LM5,,1
+Lombardi LM-7,LM7,,1
+Lombardi Rondone,ROND,,1
+Lopresti LP-1 Fury,LP1,,1
+Loving-Wayne WR-1 Love,LOVE,,1
+Lucas L-5,LUL5,,1
+Lucas L-6,LUL6,,1
+Lucas L-7,LUL7,,1
+Lucas L-8,LUL8,,1
+Luceair W-5 Buttercup,W5BC,,1
+Lunds Tekniske Silhouette,SILH,,1
+Lundy Graflite,GRAF,,1
+Luscombe 11E Spartan,L11E,,1
+Luscombe 8,L8,,1
+Luton Major,MAJR,,1
+Lyavin Delfin,DELF,,1
+M&D FLUGZEUGBAU AVO-68 Samburo,AV68,,1
+Macdonald S-21,S21,,1
+Mackey SQ-2,MSQ2,,1
+Magnus eFusion,EFUS,,1
+Magnus Fusion,FUSI,,1
+Malmo Vipan,MF10,,1
+Mapo SL-39,SL39,,1
+Mara Wing Malamut,MMUT,,1
+Maranda BM-1,RA14,,1
+Maranda BM-3,RA17,,1
+Maranda BM-6 Lark,BM6,,1
+Marganski EM-10 Bielik,EM10,,1
+Marganski EM-11 Orka,EM11,,1
+Marie JPM-01,JPM1,,1
+Marquart MA-5 Charger,MA5,,1
+Martin 404,M404,,1
+Martin B-26 Marauder,B26M,,1
+Matra Jupiter,M36J,,1
+Maule M-4,M4,,1
+Maule M-5,M5,,1
+Maule M-6,M6,,1
+Maule M-7,M7,,1
+Maule M-7-420 Turbine,M7T,,1
+Maule M-8,M8,,1
+Maule M-9,M9,,1
+Maupin Windrose,ROSE,,1
+Maverick Twin Jet,TJET,,1
+Max Holste Broussard,BROU,,1
+MBB 223 Flamingo,S223,,1
+MBB BO-209 Monsun,B209,,1
+Mccarley Mini-Mac,MMAC,,1
+MDB MD-3 Swiss Trainer,MD3,,1
+Mead Adventure,MEAD,,1
+Melbourne Mamba,MAMB,,1
+Mercury Shoestring,SHOE,,1
+Merlin Explorer,MEXP,,1
+Messerschmitt Bf-108 Taifun,ME08,,1
+Messerschmitt Bf-109,ME09,,1
+Messerschmitt Me-262 Replica,ME62,,1
+Meteor FL-53,FL53,,1
+Meteor FL-54,FL54,,1
+Meteor FL-55,FL55,,1
+Meyer Little Toot,TOOT,,1
+Meyers MAC-145,MC45,,1
+Micco SP-20/26,SP20,,1
+Midwest Aerosport Formula GT,FGT,,1
+Mikoyan MiG-15,MG15,,1
+Mikoyan MiG-17,MG17,,1
+Mikoyan MiG-21,MG21,,1
+Mikoyan MiG-23/27,MG23,,1
+Mikoyan MiG-AT,MGAT,,1
+Miles M-17 Monarch,MONA,,1
+Miles M-2 Hawk Major,M2HK,,1
+Miles M-3 Falcon Major,FALM,,1
+Miles M-65 Gemini,GEMI,,1
+Miles Magister,MAGI,,1
+Miles Messenger,MESS,,1
+Miles Whitney Straight,WHIT,,1
+Miller WM-2,WM2,,1
+Millicer Airtourer,TOUR,,1
+Millioud Andromede,ANDR,,1
+Mirage Celerity,CELR,,1
+Mirage Marathon,MRTN,,1
+Mitchell-Procter Kittiwake,KITI,,1
+Mitsubishi F-2,F2,,1
+Mitsubishi MU-2 Marquise,MU2,,1
+Mitsubishi Zero,ZERO,,1
+Molniya 1,MOL1,,1
+Mong Sport,MOSP,,1
+Monnett Monerai P,MRAI,,1
+Monnett Moni,MONI,,1
+Monocoupe 90,MC90,,1
+Montaer MC-01,MC01,,1
+Montana Coyote,MCOY,,1
+Montanair 2180 Spirit,MON2,,1
+Mooney M-10 Cadet,M10,,1
+Mooney M-10J,M10R,,1
+Mooney M-18,MITE,,1
+Mooney M-20,M20P,,1
+Mooney M-20T,M20T,,1
+Mooney M-22 Mustang,M22,,1
+Morane-Saulnier MoS-27/29/30,MSAI,,1
+Morane-Saulnier MS-230,MS23,,1
+Morane-Saulnier MS-317,MS31,,1
+Morane-Saulnier MS-733 Alcyon,MS73,,1
+Morane-Saulnier MS-760 Paris,MS76,,1
+Moravan Z-137 Agro Turbo,Z37T,,1
+Morrisey Nifty,MOR2,,1
+Morrisey OM-1 Bravo,OM1,,1
+Morse Prowler,PROW,,1
+Motorglider,GLIM,,1
+Moura Esqualo,ESQL,,1
+Mraz Sokol,SOKL,,1
+MSW Votec 221,V221,,1
+MSW Votec 252,V252,,1
+MSW Votec 322,V322,,1
+MSW Votec 351,V351,,1
+MSW Votec 452,V452,,1
+Mudry CAP-20,CP20,,1
+Mudry CAP-21,CP21,,1
+Mudry CAP-230/1/2,CP23,,1
+Murphy Radical,RCAL,,1
+Murphy Rebel,RBEL,,1
+Murphy SR-2500 Super Rebel,MR25,,1
+Murphy SR-3500 Super Rebel,MR35,,1
+Murphy SR-3500 T-Moose,MR3T,,1
+Murphy Yukon,YUKN,,1
+Mven 2 Fermer,MVN1,,1
+MXR MX-2,MX2,,1
+Mxr Mxs,MXS,,1
+Myasishchev M-101 Sokol,M101,,1
+Myasishchev M-17 Stratosfera,M17,,1
+Myasishchev M-203 Barsuk,M203,,1
+Mylius MY-102 Tornado,MY12,,1
+Mylius MY-103 Mistral,MY13,,1
+Mysky MS-1,MS1,,1
+NAL NM-5,NM5,,1
+Nanchang CJ-6,CJ6,,1
+Nanchang N-5,N5,,1
+Nanjing AC-500 Aircar,AC5A,,1
+Nanjing University FT-300,FT30,,1
+Nash Petrel,PTRL,,1
+National Aeronautics Cassutt 3M,CASS,,1
+Naval Aircraft Factory N3N,N3N,,1
+Navion Rangemaster,RANG,,1
+NDN Turbo Firecracker,ND1T,,1
+Neiva Paulistinha,PAUL,,1
+Neiva Regente,RGNT,,1
+Neiva Universal,UNIV,,1
+Nemesis Nxt,NXT,,1
+New Century Radial Rocket,RARO,,1
+New Glastar Sportsman 2+2,GLSP,,1
+New Horizons Colibri,NHCO,,1
+New Standart D-25,D25,,1
+Nf-Aircraft Explorer,NFEX,,1
+Nicollier Menestrel 2,HN70,,1
+Nieuport 28 Replica,NI28,,1
+Noorduyn Norseman,NORS,,1
+Nord 3202,N320,,1
+Nord 3400,N340,,1
+Nord NC-858,NC85,,1
+Nord Noralpha,N110,,1
+Nord Noratlas,NORA,,1
+Nord Norecrin,N120,,1
+Nord SV-4,SV4,,1
+Norman Nordic,NDIC,,1
+Norman Nordic 8 Mini Explorer,MNEX,,1
+Normand Dube Aerocruiser,NDAC,,1
+Normand Dube Aerocruiser Turbo 450,NDAT,,1
+North American B-25 Mitchell,B25,,1
+North American F-100 Super Sabre,SSAB,,1
+North American F-86 Sabre,F86,,1
+North American Navion,NAVI,,1
+North American OV-10 Bronco,V10,,1
+North American P-51 Mustang,P51,,1
+North American P-82 Twin Mustang,P82,,1
+North American Rockwell A-9 Sparrow Commander,A9,,1
+North American Rockwell B-1 Snipe Commander,CLB1,,1
+North American Rockwell Commander 100,VO10,,1
+North American Rockwell Commander 112/114,AC11,,1
+North American Rockwell Commander 200,M200,,1
+North American Rockwell Commander 500,AC50,,1
+North American Rockwell Jetprop Commander 1000,AC95,,1
+North American Rockwell Lark Commander,LARK,,1
+North American Rockwell Turbo Commander 680,AC80,,1
+North American Rockwell Turbo Commander 690/840,AC90,,1
+North American T-2 Buckeye,T2,,1
+North American T-28,T28,,1
+North American T-6 Texan,T6,,1
+North American Yale,YALE,,1
+Northrop C-125 Raider,C125,,1
+Northrop Grumman Firebird,FRBD,,1
+Northrop Grumman RQ-4 Global Hawk,Q4,,1
+Northrop Grumman X-47B,X47B,,1
+Northrop P-61 Black Widow,P61,,1
+Northrop T-38 Talon,T38,,1
+Nostalgair N-3 Super Pup,N3,,1
+Nuwaco T-10,NT10,,1
+Oberlechner JOB-15,JB15,,1
+Olympic Ultralights Desert Eagle 2,OUDE,,1
+Oma Sud Skycar,SKYC,,1
+Omac Laser 300,OMLA,,1
+OMF Symphony,SYMP,,1
+Omni-Weld Questor,QEST,,1
+Oneill Magnum,OMAG,,1
+Option Air Acapella,ACPL,,1
+Orlican L-40 Meta Sokol,L40,,1
+Orlican L-60 Brigadyr,L60,,1
+Oskbes-Mai 223 Kityonok,A223,,1
+Oskbes-Mai 411,A411,,1
+Oskbes-Mai 890,A890,,1
+Oskbes-Mai 900 Acrobat,A900,,1
+Oskbes-Mai 960 Interfly,A910,,1
+Osprey GP-4,GP4,,1
+Otto Celera 500L,CEL5,,1
+P&M AVIATION HypR,HYPR,,1
+P&M AVIATION PulsR,PULR,,1
+Pacific Aerospace Cresco,CRES,,1
+Pacific Aerospace CT-4 Airtrainer,CT4,,1
+Pacific Aerospace P-750 XStol,P750,,1
+Pacific Airmotive Tradewind,TRWN,,1
+Papa 51 Thunder Mustang,TMUS,,1
+Paradise P-1/2,PAR1,,1
+Paradise P-4,PAR4,,1
+Paramount Cabinaire,CABN,,1
+Paravar Pars Saba,SABA,,1
+Parker Teenie Two,TTWO,,1
+Parnall Elf,ELF,,1
+Parrish Dart,DART,,1
+Partenair S-45 Mystere,S45,,1
+Partenavia AP-68 Spartacus,P68T,,1
+Partenavia Oscar Charlie,OSCR,,1
+Partenavia P-57 Fachiro 2,P57,,1
+Partenavia P-68 Observer,P68,,1
+Paxmans Viper,VIPR,,1
+Payne Knight Twister,KNTW,,1
+Pazmany Laminar,PL1,,1
+Pazmany PL-2,PL2,,1
+Pazmany PL-4,PL4,,1
+Pazmany PL-9 Stork,PL9,,1
+Pegase Aero Pegazair,PEGZ,,1
+Pelegrin Tarragon,TARR,,1
+Pena Bilouis,BILO,,1
+Pena Capena,CPNA,,1
+Pena Dahu,DAHU,,1
+Pennec-Lucas Dieselis,DIES,,1
+Percival Mew Gull,MGUL,,1
+Percival Prentice,PREN,,1
+Percival Proctor,PROC,,1
+Percival Sea Prince,PRCE,,1
+Percival Vega Gull,VGUL,,1
+Performance Legend,LEGD,,1
+Petrolini IAe-20 El Boyero,EBOY,,1
+Phillips Speedtwin,ST1,,1
+Phoenix Air Phoenix,U15,,1
+Phoenix Maverick,MVRK,,1
+Phoenix-Aviacor Kasatik,KSTK,,1
+Piaggio Hammerhead,P1HH,,1
+Piaggio P-148,P148,,1
+Piaggio P-149,P149,,1
+Piaggio P-166,P66P,,1
+Piaggio P-166DP1,P66T,,1
+Piaggio P-180 Avanti,P180,,1
+Piel Beryl,CP75,,1
+Piel Emeraude,CP30,,1
+Piel Pinocchio 2,CP90,,1
+Piel Saphir,SAPH,,1
+Piel Super Diamant,CP60,,1
+Piel Super Emeraude,CP13,,1
+Piel Super Emeraude,CP32,,1
+Piel Zephir,CP80,,1
+PIK 11 Tumppu,PK11,,1
+PIK 15 Hinu,PK15,,1
+PIK 18 Sytky,PK18,,1
+PIK 19 Muhinu,PK19,,1
+PIK 21 Super Sytky,PK21,,1
+PIK 23 Towmaster,PK23,,1
+PIK 25 Varttimarkka,PK25,,1
+Pilatus P-2,PP2,,1
+Pilatus P-3,PP3,,1
+Pilatus PC-12,PC12,,1
+Pilatus PC-21,PC21,,1
+Pilatus PC-6 Porter,PC6P,,1
+Pilatus PC-6 Turbo-Porter,PC6T,,1
+Pilatus PC-7 Astra,PC7,,1
+Pilatus PC-9 Hudournik,PC9,,1
+Piper J-2 Cub,J2,,1
+Piper J-3 Cub,J3,,1
+Piper J-4 Cub Coupe,J4,,1
+Piper J-5 Cub Cruiser,J5,,1
+Piper PA-11 Cub Special,PA11,,1
+Piper PA-12 Super Cruiser,PA12,,1
+Piper PA-14 Family Cruiser,PA14,,1
+Piper PA-15 Vagabond,PA15,,1
+Piper PA-16 Clipper,PA16,,1
+Piper PA-17 Vagabond Trainer,PA17,,1
+Piper PA-18 Super Cub,PA18,,1
+Piper PA-20 Pacer,PA20,,1
+Piper PA-22,PA22,,1
+Piper PA-23,PA23,,1
+Piper PA-23-250 Aztec,PA27,,1
+Piper PA-24 Comanche,PA24,,1
+Piper PA-25 Pawnee,PA25,,1
+Piper PA-28-140/150/160/180,P28A,,1
+Piper PA-28-201T/235/236,P28B,,1
+Piper PA-28R-180/200/201,P28R,,1
+Piper PA-28R-201T,P28S,,1
+Piper PA-28RT-201,P28T,,1
+Piper PA-28RT-201T Turbo,P28U,,1
+Piper PA-30 Twin Comanche,PA30,,1
+Piper PA-31-300/310/325/350/425,PA31,,1
+Piper PA-31T1-500 Cheyenne 1,PAY1,,1
+Piper PA-31T2-620 Cheyenne 2,PAY2,,1
+Piper PA-31T3-500,PAT4,,1
+Piper PA-32,PA32,,1
+Piper PA-32R-300/301/301T,P32R,,1
+Piper PA-32RT-300/300T,P32T,,1
+Piper PA-34 Seneca,PA34,,1
+Piper PA-36 Pawnee Brave,PA36,,1
+Piper PA-38 Tomahawk,PA38,,1
+Piper PA-42-1000 Cheyenne 400,PAY4,,1
+Piper PA-42-720 Cheyenne 3,PAY3,,1
+Piper PA-44 Seminole,PA44,,1
+Piper PA-46-310/350,PA46,,1
+Piper PA-46-500TP,P46T,,1
+Piper PA-46-600TP,M600,,1
+Piper PA-46-701TP M700 Fury,M700,,1
+Piper PA-47 Piper Jet,PA47,,1
+Pipistrel Alpha Electro,PIAE,,1
+Pipistrel Alpha Trainer,PIAT,,1
+Pipstrel Panthera,PIPA,,1
+Pipstrel Sinus,PISI,,1
+Pipstrel Taurus Electro G4,PIT4,,1
+Pipstrel Velis Electro,PIVE,,1
+Pipstrel Virus,PIVI,,1
+Pitts S-1 Special,PTS1,,1
+Pitts S-1-11 Super Stinker,PTSS,,1
+Pitts S-12 Super Stinker,PTMS,,1
+Pitts S-2 Special,PTS2,,1
+Plan MP-207 Busard,MP20,,1
+Plumb Cracker Jack,CRAC,,1
+Podesva Amigo,TUL3,,1
+Podesva Bf-109G-2,BF19,,1
+Podesva Chico,CHIC,,1
+Podesva Stearman,PSTM,,1
+Podesva Trener Baby,TRBA,,1
+Polikarpov I-153,I153,,1
+Polikarpov I-15bis,I15B,,1
+Polikarpov I-16,I16,,1
+Polikarpov Po-2,PO2,,1
+Politechnika Warszawska PW-4,PW4,,1
+Porterfield CP-65 Collegiate,CP65,,1
+Potez Sauterelle,PO60,,1
+Pottier P-100,P100,,1
+Pottier P-130,P130,,1
+Pottier P-170,PT70,,1
+Pottier P-180,PT80,,1
+Pottier P-210 Coati,PT21,,1
+Pottier P-220 Koala,P220,,1
+Pottier P-230 Panda,P230,,1
+Pottier P-250 Xerus,P250,,1
+Pottier P-270 Amster,P270,,1
+Pottier P-50 Bouvreuil,P50,,1
+Pottier P-60 Minacro,P60,,1
+Pottier P-70,P70,,1
+Pottier P-80,P80,,1
+Powell P-70 Acey Deucy,ACED,,1
+Practavia Sprite,SPRT,,1
+Prescott Pusher,PUSH,,1
+Pring WS-202 Sprint,WS22,,1
+Private Explorer,PREX,,1
+Private Explorer T-Explorer,PRXT,,1
+Pro-Composites Personal Cruiser,PECR,,1
+Pro-Composites Vision,VISI,,1
+Protech Sassy,SASY,,1
+Pulsar,PULS,,1
+Pulsar Super Pulsar 600,PUL6,,1
+Putzer Elster,ELST,,1
+PZL Mielec I-22 Iryda,I22,,1
+PZL Mielec M-15 Belphegor,M15,,1
+PZL Mielec M-18 Dromader,M18,,1
+PZL Mielec M-18T Turbine Dromader,M18T,,1
+PZL Mielec M-21 Dromader Mini,M21,,1
+PZL Mielec M-24 Dromader Super,M24,,1
+PZL Mielec M-26 Iskierka,M26,,1
+PZL Mielec TS-11 Iskra,TS11,,1
+PZL Mielec TS-8 Bies,TS8,,1
+Pzl-Okecie PZL-101 Gawron,PZ01,,1
+Pzl-Okecie PZL-102 Kos,PZ02,,1
+Pzl-Okecie PZL-104 Wilga,PZ04,,1
+Pzl-Okecie PZL-104M Wilga 2000,PZ4M,,1
+Pzl-Okecie PZL-105 Flaming,PZ05,,1
+Pzl-Okecie PZL-106 Kruk,PZ06,,1
+Pzl-Okecie PZL-106 Turbo Kruk,PZ6T,,1
+Pzl-Okecie PZL-112 Junior,PZ12,,1
+Pzl-Okecie PZL-126 Mrowka,PZ26,,1
+Pzl-Okecie PZL-130 Orlik,PZ3T,,1
+Pzl-Swidnik I-23 Manager,I23,,1
+Quasar Lite,QUAS,,1
+Quercy CQR-01,QR01,,1
+Questair Spirit,SPIR,,1
+Questair Venture,VTUR,,1
+Quickie,QUIC,,1
+Quickie Q2,QIC2,,1
+R&B Bearhawk Patrol,BPAT,,1
+RAF SE-5A Replica,SE5A,,1
+Ragwing RW-19 Stork,RW19,,1
+Ragwing RW-20 Stork,RW20,,1
+Ragwing RW-22 Tiger Moth,RW22,,1
+Ragwing RW-26 Special 2,RW26,,1
+Rainbow Skyreach BushCat,BUSH,,1
+Rainbow Skyreach Cheetah,CTAH,,1
+Raj Hamsa X-Air Falcon,XAIR,,1
+Raj Hamsa XA-85,XA85,,1
+Rand KR-1,KR1,,1
+Rand KR-2,KR2,,1
+Rans Courier,CRER,,1
+Rans Coyote 2,COY2,,1
+Rans S-10 Sakota,SAKO,,1
+Rans S-11 Pursuit,PURS,,1
+Rans S-12 Super Airaile,RS12,,1
+Rans S-16 Shekari,SHEK,,1
+Rans S-20 Raven,RS20,,1
+Rans S-21 Outbound,RS21,,1
+Rans Stinger 2,STG2,,1
+Rans Venterra,VTRA,,1
+Ravin 300,RAV3,,1
+Ravin 500,RAV5,,1
+Raytheon 2000 Starship,STAR,,1
+Raytheon 390 Premier 1,PRM1,,1
+Reality Escapade,ESCP,,1
+Rearwin Cloudster,CLDS,,1
+Rearwin Ken-Royce,KERO,,1
+Rearwin Skyranger,SKYR,,1
+Rearwin Speedster,SPDR,,1
+Rearwin Sportster,SPST,,1
+Redfern DH-2,RDH2,,1
+Redfern Nieuport 24,NPOR,,1
+Reflex Lightning Bug,LBUG,,1
+Reiner Stemme Q-01,Q01,,1
+Remos Gx,GX,,1
+Remos Mirage,G3,,1
+Renegade,RENE,,1
+Replica Plans SE-5A Replica,SE5R,,1
+Republic F-47 Thunderbolt,P47,,1
+Rhein Fanliner,FANL,,1
+Rhein Fantrainer,FANT,,1
+Rhein RW-3 Multoplane,RW3,,1
+Rhein Sirius 2,SIR2,,1
+Rihn One Design,RODS,,1
+RLU Super Breezy,RLU1,,1
+Robin Aiglon,R100,,1
+Robin Alpha,R200,,1
+Robin Atl,ATL,,1
+Robin DR-400,DR40,,1
+Robin HR-100,HR10,,1
+Robin HR-200,HR20,,1
+Robin R-3000/3100/3120/3140,R300,,1
+Robin X-4,X4,,1
+Rock Kraehe,KRAH,,1
+Rocket 185,R185,,1
+Rockwell Commander 700/710,RC70,,1
+Rockwell Thrush Commander,SS2P,,1
+Rollason Beta,BETA,,1
+Rollason D-31 Turbulent,D31,,1
+Rotec Panther,PANT,,1
+Rtaf 4 Chandra,RTA4,,1
+Rupert R-11,R11,,1
+Rupert R-12 Vimana,R12,,1
+Rupert Vimana Steel,RVST,,1
+Ruschmeyer R-90-230FG,R90F,,1
+Ruschmeyer R-90-230RG,R90R,,1
+Ruschmeyer R-90-420AT,R90T,,1
+Rutan 202 Boomerang,BOOM,,1
+Rutan 367 BiPod,BPOD,,1
+Rutan 40 Defiant,DEFI,,1
+Rutan Ares,ARES,,1
+Rutan Long-EZ,LGEZ,,1
+Rutan Space Ship Two,SS2,,1
+Rutan VariEze,VEZE,,1
+Rutan VariViggen,VVIG,,1
+Ryan PT-20,RYST,,1
+Ryan PT-22 Recruit,PT22,,1
+S-Wing,SWIN,,1
+Saab 105,SB05,,1
+Saab 29,SB29,,1
+Saab 32 Lansen,SB32,,1
+Saab 35 Draken,SB35,,1
+Saab 37 Viggen,SB37,,1
+Saab 39 Gripen,SB39,,1
+Saab 91 Safir,SB91,,1
+Saab JAS39 Gripen C/D,SGCD,,1
+Saab JAS39 Gripen E/F,SGEF,,1
+Saab T-17 Supporter,MF17,,1
+Sadler A-22 Piranha,A22,,1
+Sadler Vampire,SAVA,,1
+Safran S-15 Patroller,S15U,,1
+SAI G-97 Spotter,G97,,1
+SAI KZ-2,KZ2,,1
+SAI KZ-3,KZ3,,1
+SAI KZ-4,KZ4,,1
+SAI KZ-7,KZ7,,1
+SAI KZ-8,KZ8,,1
+Saint Germain Raz-Mut,RAZM,,1
+Salvay-Stark Skyhopper,SHOP,,1
+Sam Aircraft Sam,SAM,,1
+Sauser P-6E Replica,SP6E,,1
+Scaled 401 Sierra,S401,,1
+Scaled Firebird,S355,,1
+Scaled Global Flyer,GFLY,,1
+Scaled Proteus,PRTS,,1
+Scaled Swift,SWFT,,1
+Scaled TAA-1,TAA1,,1
+Scheibe SF-23 Sperling,SF23,,1
+Scheibe SF-24 Motorspatz,SF24,,1
+Scheibe SF-25 Falke,SF25,,1
+Scheibe SF-28 Tandem Falke,SF28,,1
+Scheibe SF-31 Milan,SF31,,1
+Scheibe SF-32,SF32,,1
+Scheibe SF-35,SF35,,1
+Scheibe SF-36,SF36,,1
+Schleicher ASK-14,AS14,,1
+Schleicher ASK-16,AS16,,1
+Schweizer SA-2-37 Condor,SA37,,1
+Schweizer SA-2-38A Twin Condor Piston,SA38,,1
+Schweizer SA-2-38B Twin Condor Turbine,SA8T,,1
+Schweizer SGM-2-37,SG37,,1
+Scintex Rubis,RUBI,,1
+Scottish Aviation Twin Pioneer,TPIN,,1
+Scwal 101,SCW1,,1
+Seabird SB-7 Seeker,SB7,,1
+Servoplant Aerocraft,SERA,,1
+Sg Aviation Rally,SGRA,,1
+Sg Aviation Storm,STRM,,1
+Sgau Yastreb,YAST,,1
+Shark Aero Shark,SHRK,,1
+Shark Aircraft Shark,SASH,,1
+Shenyang Sailplane Petrel,HU2,,1
+Shenyang Sailplane Seagull,HU1,,1
+Sherpa C-400,SHER,,1
+Sherpa K-650T,SHRT,,1
+Short Skyvan,SC7,,1
+Shuya Yunona,YUNO,,1
+Siai-Marchetti S-205-20F,S05F,,1
+Siai-Marchetti S-205-22R,S05R,,1
+Siai-Marchetti S-208,S208,,1
+Siai-Marchetti S-211,S211,,1
+Siai-Marchetti SF-600 Canguro,F600,,1
+Siai-Marchetti SM-1019,SM19,,1
+Silence Twister,TWST,,1
+Sindlinger HH-1 Hawker Hurricane,HAHU,,1
+Sipa S-200 Minijet,S200,,1
+Sipa S-901/902/903/904,S900,,1
+Sivel SD-27 Corriedale,CORR,,1
+Sky Raider Frontier,FRNT,,1
+Sky Raider Super,RAID,,1
+Skydancer SD-260,SD26,,1
+Skyeton Swift,SK10,,1
+Skyfly Axe,AXE,,1
+Skygear Albatross,SALB,,1
+Skygear Comet,SCOM,,1
+Skyline SL-122 Pchelka,S122,,1
+Skyote Aeromarine Skyote,SKYO,,1
+Skystar Kitfox Voyager,VIX,,1
+Skywood Teddy,SW18,,1
+Slick 360,SLK3,,1
+Slick 540,SLK5,,1
+Sling 4 High Wing,SLH4,,1
+Slipstream Scepter,SCEP,,1
+Slipstream SkyBlaster,SBLS,,1
+Slipstream SkyQuest,SQES,,1
+Smith Acro Advanced,SACR,,1
+Smith Aviation PA-18T Super Cub,P18T,,1
+Smith DSA-1 Miniplane,DSA1,,1
+Smith Termite,TERM,,1
+Smyth Sidewinder,SIDE,,1
+Socata MS-200FG Morane,MS18,,1
+Socata MS-200RG Morane,MS25,,1
+Socata MS-300 Epsilon 2,MS30,,1
+Socata Rallye,RALL,,1
+Socata ST-10 Super Horizon,ST10,,1
+Socata TB-20 Trinidad,TB20,,1
+Socata TB-21 Trinidad TC,TB21,,1
+Socata TB-30 Epsilon,TB30,,1
+Socata TB-31 Omega,TB31,,1
+Socata TB-9 Tampico,TAMP,,1
+Socata TBM-700A/B/C,TBM7,,1
+Socata TBM-850,TBM8,,1
+Socata TBM-900/910/930/940,TBM9,,1
+Socata Tobago,TOBA,,1
+Soko 2,SOK2,,1
+Soko 522,S522,,1
+Soko G-2 Galeb,G2GL,,1
+Soko G-4 Super Galeb,G4SG,,1
+Soko J-20 Kraguj,KRAG,,1
+Soko Jastreb,JAST,,1
+Solar Impulse 1,SOL1,,1
+Solar Impulse 2,SOL2,,1
+Soloy 208 Pathfinder,C08T,,1
+Sonex Aircraft Sonex,SONX,,1
+Sonex Onex,ONEX,,1
+Sonex SubSonex,JSX,,1
+Sonex Waiex,WAIX,,1
+Sonex Xenos,XNOS,,1
+Sopwith Camel Replica,CAML,,1
+Sopwith Pup Replica,SPUP,,1
+Sopwith Triplane,STRI,,1
+Sorrell EXP-2,SNS9,,1
+Sorrell Guppy,SNS2,,1
+Sorrell Hiperbipe,SNS7,,1
+Spacek SD-2 Sportmaster,SD2,,1
+Spartan 7 Executive,SP7,,1
+Specter 2,SPC2,,1
+Spectrum S-33 Independence,SP33,,1
+Spezio DAL-1 Tuholer,DAL1,,1
+Spirit SE-1,SE1,,1
+Sport Performance Panther,PNTH,,1
+Sport Racer,SRAC,,1
+Sportavia-Putzer RS-180 Sportsman,RS18,,1
+Sreya SA-6 Envoy,SA6E,,1
+ST:CROIX Pietenpol Aerial,PARL,,1
+Star-Lite SL-1 Star-Lite,SL1,,1
+Starck AS-80 Holiday,AS80,,1
+Starfire Firebolt Convertible,FIBO,,1
+Stark-Trefethen Sport-Aire 2,SPA2,,1
+Starkraft SK-700,SK70,,1
+Statler Firefly,STFF,,1
+Staudacher S-330,ST30,,1
+Staudacher S-600,ST60,,1
+Stearman C-3,ST3,,1
+Stearman Kaydet,ST75,,1
+Stearman Speedmail,ST4,,1
+Stearman YPT-9,ST6,,1
+Steen Skybolt,BOLT,,1
+Stemme S-15,S15S,,1
+Stemme S-6,S6,,1
+Stephens Akro,AKRO,,1
+Stern ST-87 Europlane,ST87,,1
+Stern-Mallick Vega,SM01,,1
+Steward S-51D,S51D,,1
+Stewart JD-2 Foo Fighter,FOOF,,1
+Stewart SAC-1 Headwind,HEAD,,1
+Stinson 10 Voyager,S10,,1
+Stinson 108 Voyager,S108,,1
+Stinson A Tri-Motor,TRMA,,1
+Stinson Reliant,RELI,,1
+Stinson Sentinel,L5,,1
+Stinson SM-6000T Tri-Motor,SM60,,1
+Stits SA-11 Playmate,SA11,,1
+Stits SA-3 Playboy,SA3,,1
+Stits SA-6 Flut-R-Bug,SA6,,1
+Stits Sky-Coupe,SA7,,1
+Stoddard-Hamilton Turbine Glasair,GLTU,,1
+Stolp SA-100 Starduster,SA10,,1
+Stolp SA-700 Acroduster,SA70,,1
+Stolp SA-750 Acroduster Too,SA75,,1
+Stolp Starduster Too,SA30,,1
+Stolp Starlet,SA50,,1
+Stolp Super Starduster,SDUS,,1
+Storch Aviation Super Storch,STOR,,1
+Stratos 714/716,S716,,1
+Streamline Welding 20,UL20,,1
+Striplin Sky Ranger,STRA,,1
+Sukhoi Su-17/20/22,SU17,,1
+Sukhoi Su-26,SU26,,1
+Sukhoi Su-29,SU29,,1
+Sukhoi Su-31,SU31,,1
+Sukhoi Su-38,SU38,,1
+Sukhoi Su-7,SU7,,1
+Sunward Aurora S60/70,AURA,,1
+Sunward SA160,S160,,1
+Supermarine Aircraft Spitfire Mk25/26,SASP,,1
+Supermarine Spitfire,SPIT,,1
+Supermarine Swift,SWIF,,1
+Swearingen Merlin 2,SW2,,1
+Swearingen Merlin 3,SW3,,1
+Swearingen SJ-30,SJ30,,1
+Swearingen SX-300,SX30,,1
+Swiss Excellence Risen,RISN,,1
+SZD 45 Ogar,SZ45,,1
+TAI Anka,ANKA,,1
+TAI Hurkus,HURK,,1
+Tai Ziu,ZIU,,1
+Taiwan Dancer Alluvion Legend,TD3,,1
+Taiwan Dancer TD-1,TD1,,1
+Taneja Hansa,HANS,,1
+Taneja NALLA-2 Hansa,NAL2,,1
+Tapanee Levitation 2,LEV2,,1
+Tapanee Levitation 4,LEV4,,1
+Tapanee Levitation 4,LEVI,,1
+Taylor E-2 Cub,E2CB,,1
+Taylor TA-2/3 Bird,BIRD,,1
+Taylor Titch,JT2,,1
+Taylorcraft 15 Foursome,TA15,,1
+Taylorcraft 20 Topper,TA20,,1
+Taylorcraft A,TAYA,,1
+Taylorcraft BC/BF/BL,TAYB,,1
+Taylorcraft DC/DF/DL,TAYD,,1
+Taylorcraft F-19 Sportsman,TF19,,1
+Taylorcraft F-21,TF21,,1
+Taylorcraft F-22,TF22,,1
+Taylorcraft Plus,PLUS,,1
+Team Rocket F-1,TRF1,,1
+Team Tango Foxtrot-4,FOXT,,1
+Team Tango Tango-2,TAGO,,1
+Technoavia Rysachok,RYSA,,1
+Technoavia SM-2000,SM20,,1
+Technoavia SP-55,SP55,,1
+Technoavia SP-91 Slava,SP91,,1
+Technoavia SP-95,SP95,,1
+Technoavia Turbo Finist,SG92,,1
+Tecnam Astore,ASTO,,1
+Tecnam P-2002 Sierra,SIRA,,1
+Tecnam P-2004 Bravo,BRAV,,1
+Tecnam P-2006T,P06T,,1
+Tecnam P-2008,P208,,1
+Tecnam P-2012 Traveller,P212,,1
+Tecnam P-92 Echo,ECHO,,1
+Tecnam P-96 Golf,GOLF,,1
+Tecnam Snap,SNAP,,1
+Tecnam Twenty-Ten,TWEN,,1
+Temco Buckaroo,T35,,1
+Temco Sedan,L11,,1
+Temco Twin Navion,TNAV,,1
+Terrafugia Transition,TSTN,,1
+Terzi T-30 Katana,T30,,1
+Terzi T-9 Stiletto,STIL,,1
+Texas Aircraft Colt,COLT,,1
+Thatcher CX-5,CX5,,1
+THK T-19 Turkkusu,T19,,1
+Thorp Tiger,T18,,1
+Thrush S-2R Turbo 660,A660,,1
+Thunder Wings Curtiss P-40,TP40,,1
+Thunder Wings Fw-190,TFOC,,1
+Thunder Wings Supermarine Spitfire,TSPT,,1
+Time Warp Spitfire,TWSP,,1
+Tissot-Charbonnier TC-120/160/180 Oceanair,OCNR,,1
+Titan T-51 Mustang,T51,,1
+Titan Tornado SS,TRDO,,1
+Tl Ultralight Sparker,SPKR,,1
+Tl Ultralight Stream,STRE,,1
+Tl Ultralight TL-2000 Sting,TL20,,1
+Tl Ultralight TL-3000 Sirius,TL30,,1
+Tlac Bobcat,BOBC,,1
+Tm Aircraft TM-5,TM5,,1
+Tmm-Avia T-10 Avia-Tor,T10,,1
+Tomark Viper,SD4,,1
+Trago Mills SAH-1,SAH1,,1
+Travel Air 2000,TVLB,,1
+Travel Air 4000,TVL4,,1
+Tri-R Kis TR-1,KIS2,,1
+Tri-R Kis TR-4,KIS4,,1
+Trike Icaros Adventure,TIAD,,1
+Trush Turbo Thrush 500/550,SS2T,,1
+Tupolev Tu-144,T144,,1
+Turbine Design Tempest,TD2,,1
+Turner T-40,T40,,1
+Udet Flamingo Replica,UU12,,1
+Uetz Pelikan,PKAN,,1
+ULA,WACA,,1
+Ullmann Panther,ULPA,,1
+Ultimate Albertan,UL10,,1
+Ultraleichtbau Wild Thing,WILT,,1
+Unikomtranso Don,DON,,1
+Universal Composite Carbon Bird,CABI,,1
+Urban UFM-10 Samba,UF10,,1
+Urban UFM-13 Lambada,UF13,,1
+Utva 60,UT60,,1
+Utva 65,UT65,,1
+Utva 66,UT66,,1
+Utva 75,UT75,,1
+Utva Lasta,LAST,,1
+Valentin Taifun,TFUN,,1
+Valmet L-70 Vinka,L70,,1
+Valmet Redigo,L90,,1
+Valtion Viima,VIMA,,1
+Vans RV-10,RV10,,1
+Vans RV-12,RV12,,1
+Vans RV-14,RV14,,1
+Vans RV-15,RV15,,1
+Vans RV-3,RV3,,1
+Vans RV-4,RV4,,1
+Vans RV-4T,RV4T,,1
+Vans RV-6,RV6,,1
+Vans RV-7,RV7,,1
+Vans RV-8,RV8,,1
+Vans RV-9,RV9,,1
+Vashon Ranger R7,VR7,,1
+Velocity,VELO,,1
+Velocity Rocket Racer,ROAR,,1
+Velocity V-Twin,VELT,,1
+Velocity Xl Turbine,VLOT,,1
+Velocity Xl Twin Turbine,VLTT,,1
+Verhees D-1 Delta,DTA1,,1
+Verhees D-2 Delta,DTA2,,1
+Verilite Sunbird,SUNB,,1
+Vickers Vimy Replica,VIMY,,1
+Victa Aircruiser,ACSR,,1
+Viking Dragonfly,DFLY,,1
+Viking SF-2 Cygnet,SF2,,1
+Viper ViperJet,VIPJ,,1
+Visionaire Vantage,VANT,,1
+Vitek Ovod,OVOD,,1
+Vol Mediterrani VM-1 Esqual,VM1,,1
+Volante Two,VOL2,,1
+VSR SR-1 Snoshoo,SNOS,,1
+Vstol SST-2000 Pairadigm,PDIG,,1
+Vstol Super Solution,SUSO,,1
+Vulcanair Mission,VF60,,1
+Vulcanair Viator,VTOR,,1
+Waco 9,WAC9,,1
+Waco Aristocrat,WACE,,1
+Waco AVN/ZVN,WACN,,1
+Waco C/S,WACC,,1
+Waco D,WACD,,1
+Waco E/O,WACO,,1
+Waco F,WACF,,1
+Waco G,WACG,,1
+Waco JWM/JYM,WACM,,1
+Waco Rpt,WACT,,1
+Wallerkowski Hornisse,HORN,,1
+WAR Curtiss P-40 Kittyhawk,WP40,,1
+WAR Focke-Wulf 190,WFOC,,1
+WAR Hawker Sea Fury,WFUR,,1
+WAR Mitsubishi Zero,WZER,,1
+WAR Republic P-47 Thunderbolt,WP47,,1
+WAR Vought F4U Corsair,WF4U,,1
+Warner Sportster,SWAK,,1
+Wassmer WA-40 Super 4,WA40,,1
+Wassmer WA-41 Baladou,WA41,,1
+Wassmer WA-421 Prestige,WA42,,1
+Wassmer WA-54 Atlantic,WA50,,1
+Wassmer WA-81 Piranha,WA80,,1
+Watson Windwagon,WIND,,1
+Weatherly 201/620,W201,,1
+Weatherly 620TP,W62T,,1
+Wendt Traveler,WH1,,1
+Western PGK-1 Hirondelle,PGK1,,1
+Westland Lysander,LYSA,,1
+Whatley Special,WHAT,,1
+Whisper,WISP,,1
+Whisper X-350,WX35,,1
+White Der Jaeger D-9,WW1,,1
+White Lightning WLAC-1,WHIL,,1
+Wild Ascender,ASDR,,1
+Windecker Eagle,WINE,,1
+Windexair Windex,WDEX,,1
+Windracers Ultra,ULTR,,1
+Wittman Tailwind,TAIL,,1
+Wittman V-Witt,VWIT,,1
+Wolf Boredom Fighter,W11,,1
+Wolfsberg Corvus,CORV,,1
+Woods Woody Pusher,WOPU,,1
+World Aircraft Sentinel,MX1T,,1
+WZL3 DEKO-9,MGIC,,1
+Xtremair XA-41,XA41,,1
+Xtremair XA-42,XA42,,1
+Yakovlev Bear 360,B360,,1
+Yakovlev Yak-11,YK11,,1
+Yakovlev Yak-112,Y112,,1
+Yakovlev Yak-12,YK12,,1
+Yakovlev Yak-18T,Y18T,,1
+Yakovlev Yak-18U,YK18,,1
+Yakovlev Yak-3,YAK3,,1
+Yakovlev Yak-32,YK30,,1
+Yakovlev Yak-50,YK50,,1
+Yakovlev Yak-52,YK52,,1
+Yakovlev Yak-53,YK53,,1
+Yakovlev Yak-54,YK54,,1
+Yakovlev Yak-55,YK55,,1
+Yakovlev Yak-58,YK58,,1
+Yakovlev Yak-9,YAK9,,1
+Yalo Bocian M-2000,SZ9M,,1
+Yalo GM-01 Gniady,GM01,,1
+Yeoman Cropmaster,YA1,,1
+Zenair CH-100 Mono-Zenith,CH10,,1
+Zenair CH-150 Acro-Zenith,CH15,,1
+Zenair CH-180 Super Acro-Zenith,CH18,,1
+Zenair CH-200 Zenith,CH20,,1
+Zenair CH-2000 Zenith,CH2T,,1
+Zenair CH-250 Zenith,CH25,,1
+Zenair CH-300 Tri-Zenith,CH30,,1
+Zenair CH-50 Mini-Zenith,CH50,,1
+Zenair CH-600 Zodiac,CH60,,1
+Zenair CH-620 Gemini,CH62,,1
+Zenair CH-640 Zodiac,CH64,,1
+Zenair CH-650 Zodiac,CH65,,1
+Zenair CH-701 Stol,CH70,,1
+Zenair CH-750 Cruzer,CH75,,1
+Zenair CH-801 Stol,CH80,,1
+Zivko Edge 540,EDGE,,1
+Zivko Edge 540T,EDGT,,1
+Zlin Aviation Savage,SAVG,,1
+Zlin Z-22 Junak,Z22,,1
+Zlin Z-26/126/226/326/526/626/726,Z26,,1
+Zlin Z-400 Rhino,SM92,,1
+Zlin Z-42/142/242,Z42,,1
+Zlin Z-43/143,Z43,,1
+Zlin Z-50,Z50,,1
+,BALL,,0
+,DRON,,0
+,EMER,,0
+,FFLO,,0
+,GND,,0
+,GYRO,,0
+,PARA,,0
+,SERV,,0
+,SHIP,,0
+,TWR,,0
+,UHEL,,0
+,VFHC,,0
+,ZZZZ,,0
+Advanced Aeromarine Buccaneer,BUCA,,0
+Adventure Air Adventurer,ADVN,,0
+Aero Adventure Aventura 2,AVTR,,0
+Aero Gare Sea Hawker,AGSH,,0
+Aero-Star Okhotnik,OKHO,,0
+Aerocar Super Coot,COOT,,0
+Aerokopter ZA-6 Sanka,ZA6,,0
+Aerolites AeroSkiff,SKIF,,0
+Aeropract A-24,AP24,,0
+Aeropract A-25 Breeze,A25,,0
+Aeroric Dingo,DNGO,,0
+Aerospatiale Alouette 3,ALO3,,0
+Aerospatiale AS-332 Super Puma,AS32,,0
+Aerospatiale AS-332 Super Puma Mk2,AS3B,,0
+Aerospatiale AS-350 Ecureuil,AS50,,0
+Aerospatiale AS-355 Ecureuil 2,AS55,,0
+Aerospatiale AS-365 Dauphin 2,AS65,,0
+Aerospatiale SA-315 Lama,LAMA,,0
+Aerospatiale SA-330 Puma,PUMA,,0
+Aerospatiale SA-341 Gazelle,GAZL,,0
+Aerospatiale SA-361 Dauphin,S360,,0
+Aerospatiale SA-365C Dauphin 2,S65C,,0
+Aerospatiale Super Frelon,FREL,,0
+Aerovolga L-6,L6,,0
+Aerovolga LA-8 Flagman,LA8,,0
+Agusta AW-109 Grand,A109,,0
+Agusta AW-119 Koala,A119,,0
+Agusta AW-129 Mangusta,A129,,0
+Agusta AW-139,A139,,0
+Agusta AW-149,A149,,0
+Agusta AW-169,A169,,0
+Agusta AW-189,A189,,0
+Agusta Westland EH-101 Merlin,EH10,,0
+Agustawestland AW-159 Super Lynx,LYNX,,0
+Air Command Commander 147,CMD1,,0
+Air Command Commander Elite,CMDE,,0
+Air Command Commander Elite,CMDT,,0
+Airbus Helicopters EC-120,EC20,,0
+Airbus Helicopters EC-130,EC30,,0
+Airbus Helicopters EC-135/635,EC35,,0
+Airbus Helicopters EC-145,EC45,,0
+Airbus Helicopters EC-155,EC55,,0
+Airbus Helicopters EC-175,EC75,,0
+Airbus Helicopters EC-225/725,EC25,,0
+Airbus Helicopters EC-665 Tiger,TIGR,,0
+Airbus Helicopters H-160,H160,,0
+Aircraft Design Sportster Gyro,SPGY,,0
+Airmaster Avalon 680,AVLN,,0
+Airmax M-22 SeaMax,SMAX,,0
+Amax Double Eagle,DEAG,,0
+American Autogyro Spinus,SPHA,,0
+American Sportscopter Ultrasport 496,ULTS,,0
+Anderson Kingfisher,KFIS,,0
+Apollo AG-1 Gyro,AG1,,0
+Autogyro Calidus,CDUS,,0
+Autogyro Cavalon,CLON,,0
+Aviaimpex KT-112 Yanhol,YNHL,,0
+Aviatik-Alyans Aleks-251,A251,,0
+Avid Amphibian,AVAM,,0
+Aviocopter AC-311,AC31,,0
+Aviocopter AC-313,AC33,,0
+Aviotecnica ES-101,ES11,,0
+Barnett BRC-540,BR54,,0
+Barnett J4B2,J4B2,,0
+Bell 206 JetRanger,B06,,0
+Bell 206 TwinRanger,B06T,,0
+Bell 209 SuperCobra,SUCO,,0
+Bell 212,B212,,0
+Bell 214,B214,,0
+Bell 214 SuperTransport,BSTP,,0
+Bell 222,B222,,0
+Bell 230,B230,,0
+Bell 301,XV15,,0
+Bell 407,B407,,0
+Bell 412,B412,,0
+Bell 427,B427,,0
+Bell 429 GlobalRanger,B429,,0
+Bell 430,B430,,0
+Bell 47G,B47G,,0
+Bell 47J,B47J,,0
+Bell 505 JetRanger X,B505,,0
+Bell 525 Relentless,B525,,0
+Bell AH-1 HueyCobra,HUCO,,0
+Bell UH-1 Huey,UH1,,0
+Bell UH-1Y,UH1Y,,0
+Bell Valor,V280,,0
+Bell-Agusta BA-609,B609,,0
+Bell-Boeing V-22 Osprey,V22,,0
+Beriev A-40 Albatross,BER4,,0
+Beriev Be-103 Bekas,B103,,0
+Beriev Be-12 Tchaika,BE12,,0
+Beriev Be-200 Altair,BER2,,0
+Beriev SA-20,SA20,,0
+Boeing-Vertol CH-46 Sea Knight,H46,,0
+Boeing-Vertol CH-47 Chinook,H47,,0
+Brantly 305,B305,,0
+Brantly B-2,BRB2,,0
+Bristol Sycamore,SYCA,,0
+Butterfly Golden Butterfly,GOBU,,0
+Butterfly Super Sky Cycle,SSC,,0
+Caiga AG-600 Kunlong,AG60,,0
+Canadair Catalina,CAT,,0
+Canadair CL-215,CL2P,,0
+Canadair CL-415 SuperScooper,CL2T,,0
+Canadian Home Rotors Baby Belle,BABY,,0
+Carter PAV-4,PAV4,,0
+Celier Xenon,XNON,,0
+Chaika L-4,L4,,0
+Changhe WZ-10,WZ10,,0
+Chayair Sycamore,CHSY,,0
+Chernov Che-15,CE15,,0
+Chernov Che-22 Corvette,CE22,,0
+Chernov Che-23,CE23,,0
+Chernov Che-25,CE25,,0
+Chernov Che-27,CE27,,0
+Cigare CH-12,CH12,,0
+Cigare CH-14 Aguilucho,CH14,,0
+Claudius Dornier CD-2 Seastar,CD2,,0
+Collins Dipper,DIPR,,0
+Colonial Skimmer,SKIM,,0
+Colyaer Gannet,CGAN,,0
+Colyaer Mascato,CFRE,,0
+Continental Copter El Tomcat,ELTO,,0
+CSA M-6 Mermaid,MRMD,,0
+Curti Zefhir,ZEFR,,0
+Denel Rooivalk,RVAL,,0
+Dijkman-Dulkes Dijkhastar 4,DIJ4,,0
+Dornier Do-S S-Ray,SRAY,,0
+Dragon Fly,DRAG,,0
+Dta J-Ro,JRO,,0
+Dynali H-2,DYH2,,0
+Dynali H-3,DYH3,,0
+Edra Super Petrel,PETR,,0
+Eich JE-2 Gyroplane,JE2,,0
+Ela Aviacion ELA-10,EL10,,0
+Ela Aviacion ELA-7,ELA7,,0
+Ellison-Mahon Gweduck,GDUK,,0
+Enstrom F-28,EN28,,0
+Enstrom TH-28,EN48,,0
+Eurocopter BK117 C-1/2,BK17,,0
+Eurocopter BO-105,B105,,0
+Eurocopter X-3,X3,,0
+Fairchild F-18 Flymobil,UM18,,0
+Fairchild FH-1100,FH11,,0
+Fama K-209 KISS,K209,,0
+Farrington Twinstar,TSTR,,0
+Fd-Composites ArrowCopter,AC10,,0
+Fleetwings F-4 Sea Bird,FWSB,,0
+Fly Synthesis Catalina,CTLN,,0
+Flygfabriken Seagull,LN3,,0
+Flywhale FW-2,FW02,,0
+Freedom Master Air Shark,SHAK,,0
+Groen Hawk 3,HAW3,,0
+Groen Hawk 4,HW4P,,0
+Groen Jet Hawk 4T,HW4T,,0
+Groen Revcon 6G,REV6,,0
+Grumman Albatross,U16,,0
+Grumman G-21A Goose,G21,,0
+Grumman G-44 Widgeon,G44,,0
+Grumman G-73 Mallard,G73,,0
+Grumman G-73T Turbo Mallard,G73T,,0
+Guimbal G-2 Cabri,G2CA,,0
+Harbin SH-5,SH5,,0
+Heli-Sport CH-7 Kompress,CH7,,0
+Helicom H-1 Commuter,COMU,,0
+Helowerks Wasp,HX2,,0
+Hesa Shahed 274,S274,,0
+Hesa Shahed 278,S278,,0
+Hesa Shahed 285,S285,,0
+Hillberg Rotormouse,RMOU,,0
+Hiller UH-12,H12T,,0
+Hiller UH-12,UH12,,0
+Hindustan Dhruv,ALH,,0
+Hindustan Lch,LCH,,0
+Hollmann Sportster,HA2,,0
+Hughes 500,H500,,0
+Hughes Sky Knight,H269,,0
+Icon A-5,A5,,0
+Idea Hydropteron,HPTR,,0
+Independent X-JB-1 SeaDragon,JB1,,0
+Instytut Lotnictwa IS-2,IS2,,0
+Irkut A002,A002,,0
+Jag Helicopter,JAG2,,0
+Joby JAS-4,JAS4,,0
+Kaman HH-43 Huskie,H43A,,0
+Kaman K-600-5 Huskie,H43B,,0
+Kaman K-Max,KMAX,,0
+Kaman Seasprite,H2,,0
+Kamov Ka-126,K126,,0
+Kamov Ka-226 Sergei,K226,,0
+Kamov Ka-25,KA25,,0
+Kamov Ka-252,KA27,,0
+Kamov Ka-26,KA26,,0
+Kamov Ka-50,KA50,,0
+Kamov Ka-52,KA52,,0
+Kamov Ka-62,KA62,,0
+Kawasaki KH-4,KH4,,0
+Kawasaki OH-1,OH1,,0
+Kazan Ansat,ANST,,0
+Kazan Ansat 2RT,A2RT,,0
+Kopter SH-09,SH09,,0
+Korea Aerospace Surion,SURN,,0
+Lake LA-250,LA25,,0
+Lake LA-4/200,LA4,,0
+Lisa Akoya,AKOY,,0
+Little Wing Roto-Pup,RPUP,,0
+Load Range 2000,LR2T,,0
+Mad Max Aero Mad Max,MMAX,,0
+Magni M-14 Scout,MM14,,0
+Magni M-16 Tandem Trainer,MM16,,0
+Magni M-19 Shark,MM19,,0
+Magni M-21,MM21,,0
+Magni M-22 Voyager,MM22,,0
+Magni M-24 Orion,MM24,,0
+Martin Mars,MARS,,0
+Mcdonnell Douglas AH-64 Apache,H64,,0
+McDonnell Douglas MD-520N,MD52,,0
+McDonnell Douglas MD-600N,MD60,,0
+McDonnell Douglas MD-900 Explorer,EXPL,,0
+Mckinnon G-21C/D Goose,G21M,,0
+Mckinnon G-21E/G Turbo Goose,G21T,,0
+Microleve Corsario,CRIO,,0
+MIL Mi-10,MI10,,0
+MIL Mi-14,MI14,,0
+MIL Mi-2,MI2,,0
+MIL Mi-24/25/35,MI24,,0
+MIL Mi-26,MI26,,0
+MIL Mi-28,MI28,,0
+MIL Mi-34,MI34,,0
+MIL Mi-38,MI38,,0
+MIL Mi-4,MI4,,0
+MIL Mi-6/22,MI6,,0
+MIL Mi-8/9/17/19/171/172,MI8,,0
+Mitsubishi MH-2000,MH20,,0
+Mitsubishi RP-1,RP1,,0
+NHI NH-90,NH90,,0
+Nortic Omsider,OMSD,,0
+Orion 10,OR10,,0
+Orion SK-12,OR12,,0
+Oskbes-Mai 205,A205,,0
+Osprey GP-3 Osprey 2,GP3,,0
+Pawnee Chief,CHIF,,0
+Phenix,PHIX,,0
+Piaggio P-136,P136,,0
+Pitcairn-Cierva PCA-2,PCA2,,0
+Privateer Privateer,PVTR,,0
+Progressive Aerodyne SeaRey,SREY,,0
+Pzl-Swidnik SW-4 Maluch,PSW4,,0
+Pzl-Swidnik W-3,W3,,0
+Quikkit Glass Goose,GOOS,,0
+Reda Pony,PONY,,0
+Republic RC-3 Seabee,RC3,,0
+Revolution Voyager 500,V500,,0
+Robinson R-22 Mariner,R22,,0
+Robinson R-44 Raven,R44,,0
+Robinson R-66,R66,,0
+Rotary Air Force RAF-2000,RAF2,,0
+Rotorsmart HeliSmart,HSMT,,0
+Rotorsport MTOSport,MT,,0
+Rotortec Cloud Dancer 2,CLD2,,0
+Rotorway A600 Talon,A600,,0
+Rotorway Eagle 300T,EGL3,,0
+Rotorway Exec,EXEC,,0
+Rotorway JetExec,EXEJ,,0
+Rotorway Scorpion,SCOR,,0
+SAU Robert,R2,,0
+Schweizer 330/333,S330,,0
+Seaflight Shearwater,SHEA,,0
+SeaStar,SEST,,0
+Seawind,SEAW,,0
+Seawind Turbine Seawind,SEAT,,0
+Sg-Aviation Sea Storm,SSTM,,0
+Sgau S-202,S202,,0
+Sgau S-400 Kapitan,S400,,0
+Shinmaywa US-1,US1,,0
+Shinmaywa US-2,US2,,0
+Short S-25 Sandringham,SAND,,0
+Siai-Marchetti FN-333 Riviera,FN33,,0
+Sikorksy S-55T Whirlwind 3,S55T,,0
+Sikorksy S-62 Seaguard,S62,,0
+Sikorsky CH-53,H53,,0
+Sikorsky CH-53 Super Stallion,H53S,,0
+Sikorsky Defiant,SB1,,0
+Sikorsky Hoverfly,R4,,0
+Sikorsky S-38 Replica,S38,,0
+Sikorsky S-39,S39,,0
+Sikorsky S-434,S434,,0
+Sikorsky S-51,S51,,0
+Sikorsky S-52,S52,,0
+Sikorsky S-55 Chickasaw,S55P,,0
+Sikorsky S-58,S58P,,0
+Sikorsky S-58T,S58T,,0
+Sikorsky S-61 Sea King,S61,,0
+Sikorsky S-61R,S61R,,0
+Sikorsky S-64 Skycrane,S64,,0
+Sikorsky S-76 Spirit,S76,,0
+Sikorsky S-92 Helibus,S92,,0
+Sikorsky S-97 Raider,S97,,0
+Sikorsky UH-60 Black Hawk,H60,,0
+Sikorsky X-2,X2,,0
+Sikorsky X-49 SpeedHawk,X49,,0
+Silvercraft SH-4,SH4,,0
+Silverlight American Ranger 1,AR1,,0
+Snobird Adventurer,SNAD,,0
+Soloy Bell 47,B47T,,0
+Spencer Air Car Junior,ACJR,,0
+Spencer S-12 Air Car,S12,,0
+Sport Copter 2,SCII,,0
+Spratt 107,S107,,0
+SUD Alouette 2,ALO2,,0
+Sud-Ouest Djinn,DJIN,,0
+Texas Helicopter M-74 Wasp,M74,,0
+Thurston TA-16 Trojan,TA16,,0
+Thurston Teal,TEAL,,0
+Trident Trigull,TR1,,0
+UFO HeliThruster,UFHT,,0
+Unis NA-40 Bongo,NA40,,0
+United Consultant Twin Bee,TBEE,,0
+Ustinov Adel,ADEL,,0
+Vertol Work Horse,H21,,0
+Volmer Sportsman,VJ22,,0
+Vtol Aircraft Phillicopter,PHIL,,0
+Westland Scout,SCOU,,0
+Westland Wasp,WASP,,0
+Westland Wessex,WESX,,0
+Westland WG-30,WG30,,0
+Winner B-150,B150,,0
+Wuest Seahawk/seagle/Shark,WUSH,,0
